@@ -1,0 +1,83 @@
+X:1
+T:Lament for the Public's Ability to Distinguish Celtic Cultures
+M:C|
+L:1/2
+K:C
++arpeggio++fermata+[^CD_ef]+slide+[=CD__e_f]|]
+
+X:1
+T:Farewell to the Unicorn
+T:Perth Amboy, 1699
+L:1/8
+M:C
+C:T. S. Macdonald
+N: To be played A-A-B1-B2-A-B2.
+K:Dm
+%%graceslurs 0
+"A" DE | F3 G A2 d2 | c2 A2 A2 dc | B3 A G3 F | E2 G2 G2 DE | F3 G A2 d2 | f2 a2 a2 ba | g2 e2 a3 {ba} g | f2 d2 {^c} d2 :|
+"B1" fg | a3 f e2 d2 | c2 A2 A2 ga | b3 c' d'3 c' | b2 g2 g2 fg | a3 g a2 b2 | c'2 a2 a2 ba | g2 e2 a3 {ba} g | f2 d2 {^c} d2 |
+"B2" fg | afed cBAG | F2 A2 A2 ga | babc' d'c'ba | b2 g2 g2 [af]g | f3 e d3 A | F2 A2 [DA]2 EF | G2 E2 AGFE | F2 D2 D2 |]
+
+X:1
+T:Josephine Macdonald
+T:March 25, 1999 - August 20, 2013
+M:3/4
+L:1/8
+R:Air
+C:T. S. Macdonald
+K:G
+dc | B3 c AB | G3 A Bd | g3 e dB | c4 dc | B3 c AB | G3 e dc | BA G2 F2 | G4 :||:
+ga | b3 a gf | g4   dB | e3 d cB | c4 ba | b3 a gf | e4  dc |1 BA G2 F2 | G4 :|2 BA GE DB, | G,4 |]
+
+X:1
+T:A Lament
+R:air
+M:3/4
+L:1/8
+K:G
+C:T S Macdonald
+BA | G3 F GA | B4 AB | c3 E AG | G3 F BA| G3 F GA | B4 AB | c3 E GF | G4 BA |
+     G3 F GA | B4 AB | c3 E AG | G3 F BA| G3 F GA | B4 AB | c3 E GF | G3 B ||
+ef | g3 f ed | B4{A} (3Bef|g3 f ga| b4 ga | b3 a ge | d4 ge | d3 B AB | G3 B ef |
+     g3 f ed | B4{A} (3Bef|g3 f ga| b4 ga | b3 a ge | d4 ge | de dB AB | G4 |]
+
+X:1
+T:Miriam-Rose's Waltz
+M:3/4
+L:1/8
+R:Air
+C:T. S. Macdonald
+K:D
+%%text As a pastoral when not danced
+FA | d3  f ec | A3 B AF | G2 g2 f/g/f/d/ | e4 FA | d3  f ec | A3 B AF | G2 B2 A/G/F/E/ | D4 :|:
+fa | d'3 a bg | a f3 ef | g3 G FD        | E4 fa | d'3 a bg | f a3 ec | d2 g2 f/e/d/c/ | d4 :|]
+
+X:1
+T:Out of the Trenches
+L:1/8
+M:3/4
+R:Air
+C:T. S. Macdonald
+K:Em
+%%text Very Slow
+ed | B3 A Bd | e4 dB | A3 G ED | B,4 A,G, | A,3 F GB | A4 GF | E6 | E4 :|
+GA | B3 e gb | a4 EF | G2 B  AF | D4 GA | B3 e gb | a4 ga | b6 | b4 GA |
+     B3 e gb | a4 EF | G3 B2 AF | D4 GA | BA Be gb | a4 {ba}gf | e6 | [Be]4 ||
+ED | B,3 A, B,D & D6 | E4 DE & B,6 | G3 D DB, & B,6 | G,4 A,G, & D6 | A,3 F GB & E3 A,3 | [FA]4 GF | [A,E]6 | E4 ED & B,6 |
+     B,3 A, B,D | E4 DE | G3 D DB, | G,4 A,2 | B,4 B2 | A4 FD | E6 | [BE]4 ||
+gf | g3 b ge | f4 gf | e3 f  e^d | e4 BA | B3 e gb | a4 ga | b6 | b4 gf |
+     g3 b ge | f4 gf | e2 f2 e^d | e4 BA | B3 e gb | a4 {ba}gf | e6 | [EBe]4 |] 
+
+X:1
+T:Chasing after the Wind
+M:3/4
+L:1/8
+C:T. S. Macdonald
+K:Em
+%%text Very Slow
+EF | A3 =c BA | F4 EF | G3  E DA,        | B,4 B,D | E3 D B,A, | D3 B, A,B, | G,6 | G,4 EF
+   | A3 =c BA | F4 EF | G3  E DA,        | B,4 B,D | E3 F GB   | A3 c df    | e6  | e4 ||
+ef | a3  e ba | a4 gf | g3  a (f/d/)A/F/ | G4   Bd | e3 d gb   | a3 b/a/ gf | e6  | e4 ef |
+   | a3  e ba | a4 gf | gf ga f/(d/A/F/) | G4  B,D | E3 D GB   | A3 B/A/ GF | E6  | E4 |]
+
+
