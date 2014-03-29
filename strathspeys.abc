@@ -170,3 +170,15 @@ B>GB<d c>GE<A | B>AG>F G<EE>G | B>GB<d c>GE<A     | G>ED>B, C<A,A,>G   |
 B>BG<d c>GE<A | B>AG>F G<EE>F | G<A,F<A, E<A,F>A, | D>CB,>A, B,<G, G,2 ||
 g>dB<e d>cB>A | B>de>g f<dd>e | g<Bf<B g<Bb>B     | a>fe>^c d<AA>d     |
 g>dB<e d>cB<d | e>dB>A G<EE>G | B>GB<d c>GE<A     | d>cB>A B<G G2      |]
+
+X:1
+T:The Munchkin's Strathspey
+C:T. S. Macdonald
+M:C|
+L:1/8
+K:Amix
+%%graceslurs 0
+{g}a2 | e>A A/A/A A>ce<c | A>ce<A f>ed>c | d>B B/B/B B>d f2 | B>df>e f>ec>d |
+        e>A A/A/A A>ce<c | A>ce<A f>ed>c | B>cd>e f>ef<a | e>dc>B A2 ||
+c>d   | e<aa>g a>A A/A/A | A<aa>g a2 e>f | g>G G/G/G G2 e>f | g>fe<f g2{ag} f>g |
+        e<aa>g a>A A/A/A | A<aa>g a2 e>c | B>cd>e f>ef<a | e>dc<B A2 |]
