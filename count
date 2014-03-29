@@ -1,0 +1,2 @@
+#!/bin/bash
+cat *.abc | grep 'K:' | wc -l
