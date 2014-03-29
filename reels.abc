@@ -102,4 +102,13 @@ CB, | A,2 A,C DCA,C | cAGE D2 CB, | A,2 A,C DCDF | DCB,G, A,2 CB, |
 AB  | cdeA fAdA | ecBA G2 AB | cdeA fAdA | fad'^c' d'2 AB |
       cdeA fAdA | ecBA G2 AB | cdeA fAdA | DB,A,G, A,2|]
 
-
+X:1
+T:The Hybrid Bow
+C:T. S. Macdonald
+L:1/8
+M:C|
+K:Amix
+ag | fdfa g2 eg | f2 df ecAa | fdfa gfed | cABc dcag |
+     fdfa !turn!g2 eg | !turn!f2 df ecAc | dcde fgab | eAcA d2 ||
+cd | eAcA a2 cd | eAcA a2 cd | eAea fedc | B2 B/B/B B2 cd |
+     eAcA a2 cd | eAcA a2 gf | efed edBG | A2 A/A/A A2 |]
