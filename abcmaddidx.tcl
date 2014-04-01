@@ -28,7 +28,7 @@ exec tclsh "$0" ${1+"$@"}
     set fontsize 0
     set xmid 0
 # title of the index page
-    set index {index}
+    set index {Table of Contents}
 # the following values are used when fontname, fontsize or
 # xmid cannot be found in the input PostScript file
     set fontname_d {F0}		;# default encoded font name
