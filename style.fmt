@@ -1,8 +1,6 @@
 header "$P0		$P1"
 footer "T. S. Macdonald"
 
-dateformat "\%d \%b, \%Y"
-
 % page definition for US Letter
    pageheight 11in
    pagewidth 8.5in
@@ -14,11 +12,8 @@ dateformat "\%d \%b, \%Y"
 
 % squash things a bit
    scale .75
-   %staffwidth 18.4cm
-   %staffsep   40
-   maxshrink  0.65
+   maxshrink  0.6
    lineskipfac 1.1
-%   parskipfac 0
    textspace 0.2cm
    topspace 0.1cm
    titlespace 0.2cm
@@ -28,18 +23,19 @@ dateformat "\%d \%b, \%Y"
 % set up title for each tune
    titleformat P-1 Q-1 T0 C1,B1 O1 T0
    writefields N 1
+   infoname N ""
    printtempo 0
 
 % %  set fonts
      titlefont      IM-FELL-DW-Pica-Roman 20
      subtitlefont   IM-FELL-DW-Pica-Roman-Bold 11
      composerfont   IM-FELL-DW-Pica-Roman 14
-     gchordfont     IM-FELL-DW-Pica-Roman-Bold 12
+     gchordfont     IM-FELL-DW-Pica-Roman-Bold 14
      textfont       IM-FELL-DW-Pica-Roman 10
      wordsfont      IM-FELL-DW-Pica-Roman 10
      headerfont     IM-FELL-DW-Pica-Roman 11
      footerfont     IM-FELL-DW-Pica-Roman 10
-     historyfont    IM-FELL-DW-Pica-Roman 10
+     historyfont    IM-FELL-DW-Pica-Roman 12
      infofont       IM-FELL-DW-Pica-Roman 11
      tempofont      IM-FELL-DW-Pica-Roman 10
      partsfont      IM-FELL-DW-Pica-Roman 10
@@ -54,24 +50,4 @@ dateformat "\%d \%b, \%Y"
      setfont-4      IM-FELL-DW-Pica-Roman 10
      voicefont      IM-FELL-DW-Pica-Roman 10
      vocalfont      IM-FELL-DW-Pica-Roman 10
-
-% Use Verdana instead of Helvetica and Cambria instead of Times.
-
-% beginps
-% /fontredef{
-% findfont dup length
-% dict begin
-% {1 index/FID ne{def}{pop pop}ifelse}forall
-% currentdict
-% end
-% definefont pop}!
-% /Times-Roman /Cambria fontredef
-% /Times-Italic /Cambria-Italic fontredef
-% /Times-Bold /Cambria-Bold fontredef
-% /Times-BoldItalic /Cambria-BoldItalic fontredef
-% /Helvetica /Verdana fontredef
-% /Helvetica-Oblique /Verdana-Italic fontredef
-% /Helvetica-Bold /Verdana-Bold fontredef
-% /Helvetica-BoldOblique /Verdana-BoldItalic fontredef
-% endps
 
