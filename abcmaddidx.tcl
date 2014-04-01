@@ -138,6 +138,15 @@ proc main {} {
 	      incr i
 	      incr j -1
 	      set title [string trim [string range $line $i $j]]
+        if {[string compare [string range $title 0 3] "The "] == 0} {
+          set title "[string range $title 4 [string length $title]], The"
+        }
+        if {[string compare [string range $title 0 1] "A "] == 0} {
+          set title "[string range $title 2 [string length $title]], A"
+        }
+        if {[string compare [string range $title 0 2] "An "] == 0} {
+          set title "[string range $title 3 [string length $title]], An"
+        }
 	      lappend titlelist "($title)($page)"
 	      if {[string length $fontname] == 0
 		|| $fontsize == 0 || $xmid == 0} {
