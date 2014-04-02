@@ -67,6 +67,16 @@ ED | B,3 A, B,D & D6 | E4 DE & B,6 | G3 D DB, & B,6 | G,4 A,G, & D6 | A,3 F GB &
 gf | g3 b ge | f4 gf | e3 f  e^d | e4 BA | B3 e gb | a4 ga | b6 | b4 gf |
      g3 b ge | f4 gf | e2 f2 e^d | e4 BA | B3 e gb | a4 {ba}gf | e6 | [EBe]4 |] 
 
+
+X:1
+T:Archibald's Sad and Lonely Day
+C:T. S. Macdonald
+L:1/8
+M:C
+K:G
+B2 d2 c3 A | BAGF GE E2 | B2 d2 c3 A | BABd eA A2 | [BG]2 [Dd]2 [Ec]3 A | BAGF GE E2 | B,2 D2 C3 E | DCB,A, B,G, G,2 ||
+g2 d2 e3 c | Bdeg fA A2 | g2 f2 a3 b | afe^c dB B2 | g2 f2 e3 d | edBA GE E2 | B2 d2 c3 e | dcBA BG G2 |]
+
 X:1
 T:A Chasing after the Wind
 M:3/4
