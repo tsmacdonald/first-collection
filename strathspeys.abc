@@ -16,7 +16,7 @@ d   | "G"b>fg>e "Bm"f<dd>B | "Am"c/B/c/d/ e/f/g/a/ "D"f<dd>a | "Em"b>ge<g "D"a>g
 B>c | "G"d2 g>d b>gd<B | "C"e<cA>G "D"F<AD>C | "G"B,>DG>B "Am"c>BA<G | "D"F>G (A/G/)F/E/ D2 B>c |
       "G"d2 g>d b>gd>B | "C"e<cA>G "D"F<AD>C | "G"B,<DG,>B, "C"C<EA,>c | "G"B>G "D"(B/A/)G/F/ "G"G3 |]
 
-X:2
+X:1
 T:Coffee-Drinking Intellectuals
 L:1/8
 M:C|
@@ -26,7 +26,7 @@ C<EA>B (c/B/)A/G/ A2 | C<EA>E D<B,B,2 | C<EA>B (c/d/)e/f/ =g2 |1 e<ca>e c<A A2 :
 a>ec<A =g>dB<=G | f>de>c d<BB2 | c<Ad<B e<ag>f | e<ca>e c<A A2 |
 a>ec<A =g>dB<=G | (3fed (3edc d<BB>c | C<EA>B (c/d/)e/f/ =g2 | (3edc (3aed c<A A2 |]
 
-X:3
+X:1
 T:Captain Marshall at Waterloo
 M:C|
 L:1/8
@@ -103,7 +103,7 @@ D | B>cd<B A>GE<G | D>B (c/B/)A/G/ F<AD>G | B<cd>B A>GE<G | A>B (c/d/)e/c/ B<G G
 f | g>dB<G F<DD>f | (g/f/)e/f/ g>d B<dd>f | g<dB<g b>ga>f | A<B (c/d/)e/c/ B<G G|] 
 
 
-X:2
+X:1
 T:La Danse Inversée
 C:T.S. Macdonald
 M:C|
@@ -115,7 +115,7 @@ b>{ag}f g>d B<GG>B | A<=fc<f A<=FF>A | G{A}>B{c}d>c B<GG>B | (3FDF (3ABc B<G G2 
 G<DD>G A>G=F>E | =F<CC>F (3CFA (3cA^F | G<DD>G B>GB<g   | (3cBc (3dcA B<G G2 |
 G<DD>G A>G=F>E | =F<CC>F (3CFA (3cA^F | G<DB<G d<Bg>B   | (3cBc (3ABc B<G G2 |]
 
-X:3
+X:1
 T:Charles's Toothpick
 C:T.S. Macdonald
 M:C|
@@ -127,7 +127,7 @@ a<cb>c d>cB<c  | A<Ec>A d<c B2 | E<A c2 e<c a2 | f>dB<G A2 A2 |
 +2+a<cb<c +4+c'>+2+cB<c | d<fe>c d<c B2 | b>ag>f e<ca>f | e<ca<c A2 [A,EA]2 |]
 
 
-X:4
+X:1
 T:Midnight Frisbee
 C:T. S. Macdonald
 M:C|
@@ -138,7 +138,7 @@ d<ff>a b>gf<B | g>f (e/d/)c/B/ A<cc2 | d<ff>a b>gf<b | (a/g/)f/e/ d>A F<B B2 |
 d<ff>a b>gf<B | g>f (e/d/)c/B/ A<F F2 | F>Bd>B (c/{d}B/)c/e/ f2 | e<cf>A F<B B2 |]
 
 
-X:5
+X:1
 T:A Bat?
 C:T. S. Macdonald
 M:C|
@@ -150,7 +150,7 @@ d | b>BA<F g>dB<G | f>c (e/d/)c/B/ A<cc>d | b>BA<F G>Bd<g | (3cBc (3dcA B>G G>d 
     b<Ba<B g<dB>G | f>c (e/d/)c/B/ A<cc>E | D<GG>A B>GD<B, | (3B,CD (3GAc B<G G |]
 
 
-X:6
+X:1
 T:Agamemnon at Buswell
 C:T. S. Macdonald
 M:C|
@@ -161,7 +161,7 @@ F | D<dd>c d<ff>d | c<FA>G F<CC>c | D<dd>c d<ff>g | a>f (a/g/)f/e/ f<dd>F |
 f/g/ | a>fd<A f>dA<F | G>=Bc>G E<CC>g | a>fd<A d>fa>f | g<e (a/g/)f/e/ f<dd>g |
        a<df<d A>df<d | c>e (g/f/)e/d/ e<cc>d | f>ef>g a>fe<d | c/=B/A/B/ c/d/e/g/ f>d d|]
 
-X:7
+X:1
 T:Mr. Archibald LeDuc\,\ Belgrade
 C:T. S. Macdonald
 M:C|
