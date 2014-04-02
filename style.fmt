@@ -18,7 +18,7 @@ footer "T. S. Macdonald"
    topspace 0.1cm
    titlespace 0.2cm
    infospace 0.3cm
-   stretchlast 1
+   stretchlast 0
 
 % set up title for each tune
    titleformat P-1 Q-1 T0,B1 O1 T0
