@@ -21,7 +21,7 @@ footer "T. S. Macdonald"
    stretchlast 1
 
 % set up title for each tune
-   titleformat P-1 Q-1 T0 C1,B1 O1 T0
+   titleformat P-1 Q-1 T0,B1 O1 T0
    writefields N 1
    infoname N ""
    printtempo 0
