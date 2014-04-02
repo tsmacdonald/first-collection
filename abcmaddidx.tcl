@@ -131,7 +131,7 @@ proc main {} {
 		    }
 		}
 	    }
-	} elseif {[string compare [string range $line 0 5] {% --- }] == 0} {
+	} elseif {[string compare [string range $line 0 6] {% --- 1}] == 0} {
 	    set i [string first "(" $line]
 	    set j [string last ")" $line]
 	    if {$i > 0 && $j > 0} {
