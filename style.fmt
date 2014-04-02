@@ -28,9 +28,9 @@ footer "T. S. Macdonald"
 
 % %  set fonts
      titlefont      IM-FELL-DW-Pica-Roman 20
-     subtitlefont   IM-FELL-DW-Pica-Roman-Bold 11
+     subtitlefont   IM-FELL-DW-Pica-Roman 11
      composerfont   IM-FELL-DW-Pica-Roman 14
-     gchordfont     IM-FELL-DW-Pica-Roman-Bold 14
+     gchordfont     IM-FELL-DW-Pica-Roman 14
      textfont       IM-FELL-DW-Pica-Roman 10
      wordsfont      IM-FELL-DW-Pica-Roman 10
      headerfont     IM-FELL-DW-Pica-Roman 11
