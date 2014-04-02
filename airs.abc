@@ -68,14 +68,18 @@ gf | g3 b ge | f4 gf | e3 f  e^d | e4 BA | B3 e gb | a4 ga | b6 | b4 gf |
      g3 b ge | f4 gf | e2 f2 e^d | e4 BA | B3 e gb | a4 {ba}gf | e6 | [EBe]4 |] 
 
 X:1
-T:Chasing after the Wind
+T:A Chasing after the Wind
 M:3/4
 L:1/8
 C:T. S. Macdonald
+N:...My heart took delight in all my work, and this was the reward for all my labor.
+N:Yet when I surveyed all that my hands had done and what I had toiled to achieve,
+N:everything was meaningless, a chasing after the wind...
+N:	~Ecc. 2:10-11 NIV
 K:Em
 %%text Very Slow
-EF | A3 =c BA | F4 EF | G3  E DA,        | B,4 B,D | E3 D B,A, | D3 B, A,B, | G,6 | G,4 EF
-   | A3 =c BA | F4 EF | G3  E DA,        | B,4 B,D | E3 F GB   | A3 c df    | e6  | e4 ||
+EF | A3 c BA | F4 EF | G3  E DA,        | B,4 B,D | E3 D B,A, | D3 B, A,B, | G,6 | G,4 EF
+   | A3 c BA | F4 EF | G3  E DA,        | B,4 B,D | E3 F GB   | A3 ^c df    | e6  | e4 ||
 ef | a3  e ba | a4 gf | g3  a (f/d/)A/F/ | G4   Bd | e3 d gb   | a3 b/a/ gf | e6  | e4 ef |
    | a3  e ba | a4 gf | gf ga f/(d/A/F/) | G4  B,D | E3 D GB   | A3 B/A/ GF | E6  | E4 |]
 
