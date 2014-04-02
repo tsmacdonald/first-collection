@@ -36,10 +36,9 @@ M:3/4
 L:1/8
 C:T. S. Macdonald
 K:G
-BA | G3 F GA | B4 AB | c3 E AG | G3 F BA| G3 F GA | B4 AB | c3 E GF | G4 BA |
-     G3 F GA | B4 AB | c3 E AG | G3 F BA| G3 F GA | B4 AB | c3 E GF | G3 B ||
-ef | g3 f ed | B4{A} (3Bef|g3 f ga| b4 ga | b3 a ge | d4 ge | d3 B AB | G3 B ef |
-     g3 f ed | B4{A} (3Bef|g3 f ga| b4 ga | b3 a ge | d4 ge | de dB AB | G4 |]
+BA | G3 F GA | B4 AB | c3 E AG | G3 F BA| G3 F GA | B4 AB | c3 E GF | G4 :|
+{B}ef | g3 f ed | B4{A} (3Bef|g3  f ga | b4 ga | b3 a ge | d4 ge | d3 B AB  | G3 B ef |
+        g3 f ed | B4{A} (3Bef|g2 gf ga | b4 ga | b3 a ge | d4 ge | de dB AB | G4 |]
 
 X:1
 T:Miriam-Rose's Waltz
