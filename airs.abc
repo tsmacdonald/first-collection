@@ -79,12 +79,22 @@ g2 d2 e3 c | Bdeg fA A2 | g2 f2 a3 b | afe^c dB B2 | g2 f2 e3 d | edBA GE E2 | B
 
 X:1
 T:The Caledonia's Return to Caledonia
-C:T. S. Macdonlad
+C:T. S. Macdonald
 L:1/4
 M:C
 K:G
 d/c/ | B G D B, | G,3 A/B/ | c e g B | c3 d/c/ | B G d B | c/d/e/f/ g f/e/ | d B A B | G3 ||
 B/c/ | d g f g | d3 c/d/ | e c d B | A3 d/c/ | B G d B c/d/e/c/ A B/c/ | d B A B | G3 |]
+
+X:1
+T:John Turner's Magic Kingdom
+C:T. S. Macdonald
+L:1/8
+M:6/8
+N:The composer has forgotten the origins of the title.
+K:Amix =g
+a2 A A>BA | BAB A2 G | g2 B BAB | dBB B2 b | aba g2 e | dBg | G2 B | ABc dBG |  BAA A3 :|]
+|: g2 b afd | ecA A2 e | f2 g fdB | cAF F2 E | ABA B2 e | dBg G2 B | ABc dBG | BAA A3 :|]
 
 X:1
 T:A Chasing after the Wind
