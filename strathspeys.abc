@@ -196,3 +196,23 @@ A>B | d2 A>B d>AB<d | e>fg>f e2 A>B | d2 A>B d>BA<F | E6 A>B |
       d2 A>B d>AB<d | e>fg<b a>fe<d | e>fg>f e<AB>A | B2 d2 d2 ||
 e>f | g2 e>f g>f e<d | g>fe<d B2 e>f | g2 e>f g>fe<d | A6 e>f |
       g2 e>f g>fe<d | e<dB>A B2 A<F | A>Bg>f e<AB>A | B2 d2 d2 |]
+
+X:1
+T:The Flying Men
+C:T. S. Macdonald
+M:C|
+L:1/8
+K:A
+E | A2 c>A c/d/e a2 | A2 c>A G<BB>c | A2 c>A c/d/e a2 | e<ac<a c<A A :|
+{ef}g | a>fg>e f<de>c | d<fe>c B2 e/f/g | a>fg<e f>de>c | d<fe>c A2 ef/g/ |
+        (3 agf (3 gfe (3 fed (3 edc | (3 def (3 ecA B2 c>E | A2 c>A c/d/e a2 | e<ac<a c<A A |]
+
+X:1
+T:The Fall
+C:T. S. Macdonald
+M:C|
+L:1/8
+K:A
+E | A c>A c/d/e c2 | A>ce<a f>ef<a | A2 c>A c/d/e c2 | A>cB<G A2 A :|
+{Ac}e | a>Ag>A f<Ag>A | (3aga (3fec e2 (3Ace | a<Ag>A f<Ag>A | (3aga (3bge f2 (3geA |
+(3aAa (3gAg (3fAf (3gAg | (3aga (3bag (3fed (3cBA | (3dAf (3efg (3agf (3edB | A>cB<G A2 A |]
