@@ -62,3 +62,15 @@ A/B/c | d2 f2 e2 dc | BcdB A2 GF | GABG FGAF | G2 E2 E2 AB/c/ |
 fe    | dcde fedf | edcB A2 fe | dcde fedF | G2 E2 E2 fe |
         dcde fedf | edcB A2 fe | dcdf ecAc | d2 d2 d2 |]
 
+X:1
+T:Ferdinand B. Barker's Malodorous March
+C:T. S. Macdonald
+M:C
+L:1/8
+K:Amix =g
+%%graceslurs 0
+e2 | A>ce<a f2 ef | gedB G2 cd | eA {AGAG}A2 fA {AGAG}A2 | gfed e2 fe |
+     Acea f2 ef | gedB G2 cd | eAfA gAaf | ecBc A2 ||
+cd | efed cA {AGAG}A2 | dcBA G2 cd | efeA fgfd | gfed e2 cd |
+     efed cA {AGAG}A2 | dcBA G2 cd | ecea gdBG | Aaec A2 |]
+
