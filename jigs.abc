@@ -28,7 +28,7 @@ D | e2 c dAF | GEE E2 F | G2 a agf | gee e2 f | g2 A ABc | dBG GAB | def edc | d
 g | f2 D FA=c | efa agf | e2 B, DFA | =cAF FGA | F2 g gfg | E2 f fef | def edc | dAF E2 :|]
 
 X:1
-T:Poohsticks
+T:Poohsticks at the Causeway
 C:T. S. Macdonald
 M:6/8
 L:1/8
@@ -36,3 +36,22 @@ K:D
 g | f2 d dfd | ecA ABc | dcd AFD | EFE E2 g | f2 d dfd | ecA ABc | def edc | dAF D2 g |
     f2 d dfd | ecA ABc | dcd AFD | EFE E2 g | f2 g afa | bge dBc | def edc | dAF D2 ||
 |:E | F2 A dAF | EGB egb | a2 f dAF | EFE E2 G | F2 A dAF | EGB e2 c | def edc | dAF D2 :|]
+
+X:1
+T:Island Wind Shadow
+C:T. S. Macdonald
+M:6/8
+L:1/8
+K:Em
+%%text Not for dancing
+EGB AGF | GFE D2 B, | EGB Adf | gfd e2 f | EGB AGF | GFE D2 B, | EGB egb | agf e3 ||
+bga fge | dBG F2 G | EGB eBG | FED E2 F | GEB AFd | Beg b2 a | fdB cAF | EGB e3 |]
+
+X:1
+T:Duffers at Sea
+C:T. S. Macdonald
+M:6/8
+L:1/8
+K:A
+cea c'ae | cae fBB | cAe caf | gf^d e2 f | cea c'ae | cae fdc | dAF DA,D | ECA, A,3 ||
+cAE ecA | dBF DB,A, | cAE ecA | FE^D E2 B | ecA acA | Bdf bfd | afd AFD | ECA, A,3 |]
