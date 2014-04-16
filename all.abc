@@ -89,6 +89,11 @@ T:The Marquis of Tweeddale's Proclamation
 M:C|
 L:1/8
 C:T. S. Macdonald
+N:If they found it would tend to the advancement of trade that an Act be paſsed for the encouragement of ſuch as ſhould acquire and eſtabliſh a plantation
+N:in Africa or America, or any other part of the world where plantations might lawfully be acquired, His Majeſty was willing to declare that he would grant
+N:to hiſ ſubjects in Scotland, in favour of their plantations, ſuch rights and privileges as he was accuſtomed to grant to the ſubjects of his other dominions.
+N:
+N:~ Opening Addreſs given by John Hay, First Marquis and Second Earl of Tweeddale and Lord Chancellor of Scotland, to Parliament on May 9, 1695
 K:D
 D<dc<d A<F D2 | e>f (g/f/)e/d/ c<ee>f | D<dc>d A<F D2 | E>e d/c/B/A/ d2 !turn!d2 |
 D<dc>d A<F D2 | e>f g/f/e/d/ c/d/e/c/ A2 | D<dc>d B<dg>b | a>f (a/g/)f/e/ f<dd>f ||
@@ -354,7 +359,6 @@ T:Lament for the Public's Ability to Diſtinguiſh Celtic Cultures
 M:C|
 L:1/2
 K:C
-%%text Slowly yet ragefully
 +arpeggio++fermata+[^CD_ef]+slide+[=CD__e_f]|]
 
 X:1
