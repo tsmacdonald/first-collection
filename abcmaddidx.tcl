@@ -5,6 +5,7 @@ exec tclsh "$0" ${1+"$@"}
 # Create a tune index from the abcm2ps PostScript output
 #	
 # Copyright (C) 2007-2013 Jean-François Moine
+# This version has been edited slightly by Tim Macdonald to suit his own purposes.
 # version 2013/03/16
 #	- fix crash when %%header with 2 lines (reported by Chuck Boody)
 # version 2011/04/18
