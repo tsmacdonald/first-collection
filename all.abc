@@ -163,7 +163,7 @@ Bc | d3 e d2 | g2 f2 e2 | d2 B2 G2 | A4 Bc | d3 e d2 | g2 a2 b2 |1 d2 g2 f2 | g4
 |: de | f3 e d2 | e2 d2 ^c2 | d2 B2 G2 | A4 de | f2 a2 f2 | g2 b2 g2 |1 fe d2 ^c2 | d4 :|2 d2 g2 f2 | g4 |]
 
 X:1
-T:Rainy Fog
+T:Fog in the Rain
 C:T. S. Macdonald
 M:C|
 L:1/8
@@ -339,7 +339,7 @@ M:C|
 L: 1/8
 R:reel
 C:T. S. Macdonald
-N:The firſt meaſure is by Dr. John Turner
+N:The firſt meaſure is by Dr John Turner
 K:Am
 AAAB c2 e2 | dcBA GABG  | AAAB c2 e2 | aged eAAE  | AAAB c2 e2 | dBGD B,G,G,B, | A,A,A,B, C2 E2 | DB,GB, A,2 A,2 ||
 aaag eA A2 | Bdgd BGG^g | abc'b aeed | cGEC D2 D2 | aaag eA A2 | dBGd BGDB,    | A,A,A,B, C2 E2 | DB,GB, A,2 A,2 |]
@@ -539,6 +539,25 @@ B>c | "G"d2 g>d b>gd<B | "C"e<cA>G "D"F<AD>C | "G"B,>DG>B "Am"c>BA<G | "D"F>G (A
       "G"d2 g>d b>gd>B | "C"e<cA>G "D"F<AD>C | "G"B,<DG,>B, "C"C<EA,>c | "G"B>G "D"(B/A/)G/F/ "G"G3 |]
 
 X:1
+T:The Windbird
+M:C|
+L: 1/8
+C:T. S. Macdonald
+K:G
+%%text Slowiſh
+D | B>cd<B A>GE<G | D>B (c/B/)A/G/ F<AD>G | B<cd>B A>GE<G | A>B (c/d/)e/c/ B<G G:|
+f | g>dB<G F<DD>f | (g/f/)e/f/ g>d B<dd>f | g<dB<g b>ga>f | A<B (c/d/)e/c/ B<G G|] 
+
+X:1
+T:Hanſen Library
+M:C|
+L:1/8
+C:T. S. Macdonald
+K:G
+G2 B>G B<dd>B | c>Bd>c B>GF<D | G2 B>G B<dd>B | c>A d/e/d/c/ B<G G2 :||
+g2 b>g f2 a>f | e>de<f g>dB<G | g2 b>g f>ga>f | c>A d/e/d/c/ B<G G2 |\
+g2 b>g f2 a>f | e>de<f g>dB<G | g<be<g d<gB<G | c>A d/e/d/c/ B<G G2 |]
+X:1
 T:The Storm-Loving Laſsie
 M:C|
 L: 1/8
@@ -549,16 +568,6 @@ CB, | A,2 A,C DCA,C | cAGE D2 CB, | A,2 A,C DCDF | DCB,G, A,2 CB, |
       A,2 A,C DCA,C | cAGE D2 CB, | A,2 A,C DCDF | DCB,G, A,2 ||
 AB  | cdeA fAdA | ecBA G2 AB | cdeA fAdA | fad'^c' d'2 AB |
       cdeA fAdA | ecBA G2 AB | cdeA fAdA | DB,A,G, A,2|]
-
-X:1
-T:The Windbird
-M: 4/4
-L: 1/8
-C:T. S. Macdonald
-K:G
-%%text Slowiſh
-D | B>cd<B A>GE<G | D>B (c/B/)A/G/ F<AD>G | B<cd>B A>GE<G | A>B (c/d/)e/c/ B<G G:|
-f | g>dB<G F<DD>f | (g/f/)e/f/ g>d B<dd>f | g<dB<g b>ga>f | A<B (c/d/)e/c/ B<G G|] 
 
 X:1
 T:The Hybrid Bow
@@ -602,6 +611,30 @@ K:D
 A | dA A/A/A AFAd | eB B/B/B BABc | dA A/A/A AFAd | cdec d2 d :|
 d | gabg dgbg | dgbg f/f/f fd | gabg dgbg | fdef g/g/g gd | 
     gabg dgbg | GBeg !turn!f2 ef | gefd ecdB | AGFE D2 D |]
+
+X:1
+T:The Apiarist
+C:T. S. Macdonald
+M:C|
+L:1/8
+K:D
+%%text Slowiſh
+a>f | e<dd>A B2 A>F | A>Bd<e f2 a>f | e<dd>A B2{cB} A>F | E6 a>f |
+      e<dd>A B2 A>F | A>Bd<e f2 e>f | g>ef>d e<dB>A | B2 d2 d2 ||
+e>f | g>ef>d e<dB>A | B<dd>B A2 e>f | g>ba<f g>fe>d | e6 e>f |
+      g>ef>d e<dB>A | b<d'd'>b a2 e>f | g>ef>d e<dB>A | B2 d2 d2 |]
+
+X:1
+T:Train to Mallaig
+C:T. S. Macdonald
+M:C
+L:1/8
+K:D
+%%text March
+A2  | B2 E2 E3 A | B>AB<d B>AF>G | A2 F2 F3 E | D>EF>G A>FA<d |
+      B2 E2 E3 A | B>AB<d B>AF>E | D>B,A,>C B,>G,A,<D | B,2 G,2 G,2 ||
+A,2 | B,>A,B,<D B,2 A,2 | G,>A, B,<C D2 B,2 | C>B,C<D E2 C2 | D>CB,>A, G,2 A,2 |
+      B,>A,B,<D C>B,C<E | D>CD<B g2 f>e | d>ed>B d>BA>F | G2 [B,G]2 [G,G]2 |]
 
 X:1
 T:The Dancer in the Tower
