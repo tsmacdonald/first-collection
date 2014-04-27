@@ -16,10 +16,10 @@ C:T. S. Macdonald
 M:C|
 L:1/8
 K:Dm
-F | D<dd>c d<ff>d | c<FA>G F<CC>c | D<dd>c d<ff>g | a>f (a/g/)f/e/ f<dd>F |
-    D<dd>c d<ff>g | c'<eg>f e<cc>d | f>ef>g a>fe<d | c/=B/A/B/ c/d/e/g/ f<d d ||
+F | D<dd>c d<ff>d | c<FA>G F<CC>F | D<dd>c d<ff>g | a>f (a/g/)f/e/ f<dd>F |
+    D<dd>c d<ff>g | c'>eg>f e<cc>d | f>ef>g a>fe<d | c/=B/A/B/ c/d/e/g/ f<d d ||
 f/g/ | a>fd<A f>dA<F | G>=Bc>G E<CC>g | a>fd<A d>fa>f | g<e (a/g/)f/e/ f<dd>g |
-       a<df<d A>df<d | c>e (g/f/)e/d/ e<cc>d | f>ef>g a>fe<d | c/=B/A/B/ c/d/e/g/ f>d d|]
+       a<df<d A>df<d | c<e (g/f/)e/d/ e<cc>d | f>ef>g a>fe<d | c/=B/A/B/ c/d/e/g/ f>d d|]
 
 X:1
 T:Ciamar a Theireadh Sibh...?
@@ -67,8 +67,10 @@ M:C|
 R:Reel
 C:T. S. Macdonald
 K:Cm
-=B | c2 ec GcEc | DBFE DB,B,=B | c2 ec GcEc | FD G/F/E/D/ ECC=B | c2 ec GcEc | DBFE DB,B,D | EGce dc=Bd | ecd=B c3 ||
-d | ec c/c/c egfe | dB B/B/B FB B/B/B | ec c/c/c egfe | dba^f  g2 cd | ec c/c/c egfe | dB B/B/B FB B/B/B | EGce dc=Bd | ecd=B c3 |]
+=B | c2 ec GcEc | DBFE DB,B,=B | c2 ec GcEc | FD G/F/E/D/ ECC=B |
+     c2 ec GcEc | DBFE DB,B,D | EGce dc=Bd | ecd=B c3 ||
+d | ec c/c/c egfe | dB B/B/B FB B/B/B | ec c/c/c egfe | dba^f  g2 cd |
+    ec c/c/c egfe | dB B/B/B FBDB | EGce dc=Bd | ecd=B c3 |]
 
 X:1
 T:Farewell to the Unicorn
@@ -85,35 +87,15 @@ K:Dm
 "B2" fg | afed cBAG | F2 A2 A2 ga | babc' d'c'ba | b2 g2 g2 [af]g | f3 e d3 A | F2 A2 [DA]2 EF | G2 E2 AGFE | F2 D2 D2 |]
 
 X:1
-T:The Marquis of Tweeddale's Proclamation
+T:She's Off and Away with my Fiddle
+C:T. S. Macdonald
 M:C|
 L:1/8
-C:T. S. Macdonald
-N:If they found it would tend to the advancement of trade that an Act be paſsed for the encouragement of ſuch as ſhould acquire and eſtabliſh a plantation
-N:in Africa or America, or any other part of the world where plantations might lawfully be acquired, His Majeſty was willing to declare that he would grant
-N:to hiſ ſubjects in Scotland, in favour of their plantations, ſuch rights and privileges as he was accuſtomed to grant to the ſubjects of his other dominions.
-N:
-N:~ Opening Addreſs given by John Hay, First Marquis and Second Earl of Tweeddale and Lord Chancellor of Scotland, to Parliament on May 9, 1695
 K:D
-D<dc<d A<F D2 | e>f (g/f/)e/d/ c<ee>f | D<dc>d A<F D2 | E>e d/c/B/A/ d2 !turn!d2 |
-D<dc>d A<F D2 | e>f g/f/e/d/ c/d/e/c/ A2 | D<dc>d B<dg>b | a>f (a/g/)f/e/ f<dd>f ||
-a<df<d (A/B/)c/d/ e>f | g>fe>d c<ee>f | a<df<d (A/B/)c/d/ e>f | g<ba>g f<dd>f |
-a<df<d e>cd>A | (3 Bcd A>F G<EE>F | D<dc>d B<dg>b | a>f (a/g/)f/e/ f<dd>f |]
-
-
-X:1
-T:The Natural Way
-M:C|
-L: 1/8
-R:reel
-N:Written as a secondary tune for Crystal Congratulations, a dance by Moira Turner
-C:T. S. Macdonald
-K:A
-c | dBAG A2 ed | cBAc dBBe | eBAG A2 Bc | deBd cAA :|:
-B | c2 c2 d2 ed | cefa ecAB | c2 c2 d2 Bc | deBd cAA :|:
-g | agfe f3 g | af f/f/f bagf | agfe f3 g | afeg aff :|:
-e | fedc dcBA | c2 c2 d3 e | fedc dcBc | deBd cAA :|:
-B | c2 c2 B3 A Bded cAAB  | c2 c2 B3 c | dBed cAA :|]
+C:T S Macdonald
+d2 ef gd d/d/d | c/B/A eA aAeA | d2 ef gd d/d/d |1 c/B/A eA B2 A/B/c :|2 c/B/A eA Bd d2 :|]
+K:G
+|: gdBG FA A/A/A | gdBd gbaf | egdg Bgdb |1 afed B2 ef :|2 a/g/f ed BG G2 |]
 
 X:1
 T:Charles's Cakewalk
@@ -159,11 +141,54 @@ C:T. S. Macdonald
 M:3/4
 L:1/8
 K:G
-Bc | d3 e d2 | g2 f2 e2 | d2 B2 G2 | A4 Bc | d3 e d2 | g2 a2 b2 |1 d2 g2 f2 | g4 :|2 ae dc BA | G4 ||
+Bc | d3 e d2 | g2 f2 e2 | d2 B2 G2 | A4 Bc | d3 e d2 | g2 a2 b2 |1 d2 g2 f2 | g4 :|2 af dc BA | G4 ||
 |: de | f3 e d2 | e2 d2 ^c2 | d2 B2 G2 | A4 de | f2 a2 f2 | g2 b2 g2 |1 fe d2 ^c2 | d4 :|2 d2 g2 f2 | g4 |]
 
 X:1
-T:Fog in the Rain
+T:Perſeus's Return to Seriphos
+C:T. S. Macdonald
+M:6/8
+L:1/8
+K:Amix =g
+%%text March
+E | A>cA Bce | aec dBd | cAc  edc | BGB B2 c | AcA  Bce | aec dBd | cae  fed | cAA A2 ||
+B | cAc eac | dBd dcB | cAc edc | BGB B2 d | cAc eac | dBd dcB | cac fed | cAA A2 |]
+
+X:1
+T:The Marquis of Tweeddale's Proclamation
+M:C|
+L:1/8
+C:T. S. Macdonald
+N:If they found it would tend to the advancement of trade that an Act be paſsed for the encouragement of ſuch as ſhould acquire and eſtabliſh
+N:a plantation in Africa or America, or any other part of the world where plantations might lawfully be acquired, His Majeſty was willing to
+N:declare that he would grant to hiſ ſubjects in Scotland, in favour of their plantations, ſuch rights and privileges as he was accuſtomed to grant
+N:to the ſubjects of his other dominions.
+N:
+N:Opening Addreſs given to Parliament by John Hay, First Marquis and Second Earl of Tweeddale and Lord Chancellor of Scotland
+N:May 9, 1695
+K:D
+D<dc<d A<F D2 | e>f (g/f/)e/d/ c<ee>f | D<dc>d A<F D2 | E>e d/c/B/A/ d2 !turn!d2 |
+D<dc>d A<F D2 | e>f g/f/e/d/ c/d/e/c/ A2 | D<dc>d B<dg>b | a>f (a/g/)f/e/ f<dd>f ||
+a<df<d (A/B/)c/d/ e>f | g>fe>d c<ee>f | a<df<d (A/B/)c/d/ e>f | g<ba>g f<dd>f |
+a<df<d e>cd>A | (3 Bcd A>F G<EE>F | D<dc>d B<dg>b | a>f (a/g/)f/e/ f<dd>f |]
+
+
+X:1
+T:The Natural Way
+M:C|
+L: 1/8
+R:reel
+N:Written as a ſecondary tune for Cryſtal Congratulations, a dance by Moira Turner.
+C:T. S. Macdonald
+K:A
+c | dBAG A2 ed | cBAc dBBe | eBAG A2 Bc | deBd cAA :|:
+B | c2 c2 d2 ed | cefa ecAB | c2 c2 d2 Bc | deBd cAA :|:
+g | agfe f3 g | af f/f/f bagf | agfe f3 g | afeg aff :|:
+e | fedc dcBA | c2 c2 d3 e | fedc dcBc | deBd cAA :|:
+B | c2 c2 B3 A Bded cAAB  | c2 c2 B3 c | dBed cAA :|]
+
+X:1
+T:Fogbound
 C:T. S. Macdonald
 M:C|
 L:1/8
@@ -188,6 +213,7 @@ GE E/E/E BE E/E/E | AF F/F/F A,DFD | GEGB e^deg | fdaf ge e2 |]
 X:1
 T:Joſephine Macdonald
 T:March 25, 1999 - Auguſt 20, 2013
+T:Beloved Dog
 M:3/4
 L:1/8
 R:Air
@@ -239,16 +265,6 @@ K:D
 %%text Slowly when not danced
 FA | d3  f ec | A3 B AF | G2 g2 f/g/f/d/ | e4 FA | d3  f ec | A3 B AF | G2 B2 A/G/F/E/ | D4 :|:
 fa | d'3 a bg | a f3 ef | g3 G FD        | E4 fa | d'3 a bg | f a3 ec | d2 g2 f/e/d/c/ | d4 :|]
-
-X:1
-T:She's Off and Away with my Fiddle
-C:T. S. Macdonald
-M:C|
-L:1/8
-K:D
-C:T S Macdonald
-d2 ef gd d/d/d | c/B/A eA aAeA | d2 ef gd d/d/d |1 c/B/A eA B2 A/B/c :|2 c/B/A eA Bd d2 :|]
-|: gdBG FA A/A/A | gdBd gbaf | egdg Bgdb |1 afed B2 ef :|2 a/g/f ed BG G2 |]
 
 X:1
 T:Archibald's Sad and Lonely Day
@@ -390,21 +406,8 @@ M:C|
 L:1/8
 K:A
 E | A c>A c/d/e c2 | A>ce<a f>ef<a | A2 c>A c/d/e c2 | A>cB<G A2 A :|
-{Ac}e | a>Ag>A f<Ag>A | (3aga (3fec e2 (3Ace | a<Ag>A f<Ag>A | (3aga (3bge f2 (3geA |
+{Bc}e | a>Ag>A f<Ag>A | (3aga (3fec e2 (3Ace | a<Ag>A f<Ag>A | (3aga (3bge f2 (3geA |
 (3aAa (3gAg (3fAf (3gAg | (3aga (3bag (3fed (3cBA | (3dAf (3efg (3agf (3edB | A>FE<C A,2 A, |]
-
-X:1
-T:Perſeus's Return to Seriphos
-C:T. S. Macdonald
-M:6/8
-L:1/8
-K:Amix =g
-%%barsperstaff 8
-%%text March
-E | A>cA Bce | aec dBd | cAc  edc | BGB B2 c |
-    AcA  Bce | aec dBd | cae  fed | cAA A2 ||
-B | cAc eac | dBd dcB | cAc edc | BGB B2 d |
-    cAc eac | dBd dcB | cac fed | cAA A2 |]
 
 X:1
 T:The Caledonia's Return to Caledonia
@@ -521,9 +524,19 @@ D2 A2 F2 | GFED E2 | dc BA GF | EFEC A,2 | DF Ad fa | CE Ac ea | gf ag fg | !tri
 a2 f2 d2 | ABcd e2 | fb fd Bd | cdec A2 | gf ed cB | ag fe dc | (3 bag f2 !trill!e2 | d6 |]
 
 X:1
+T:Hanſon Library
+M:C|
+L:1/8
+C:T. S. Macdonald
+K:G
+G2 B>G B<dd>B | c>Bd>c B>GF<D | G2 B>G B<dd>B | c>A d/e/d/c/ B<G G2 :||
+g2 b>g f2 a>f | e>de<f g>dB<G | g2 b>g f>ga>f | c>A d/e/d/c/ B<G G2 |\
+g2 b>g f2 a>f | e>de<f g>dB<G | g<be<g d<gB<G | c>A d/e/d/c/ B<G G2 |]
+
+X:1
 T:Aging Gracefully
-N:Compoſed for Carlyn Bromann's dance of the ſame name in RSCDS Book 47
-N:Chords by Mady Newfield
+N:Compoſed for Carlyn Bromann's dance of the ſame name in RSCDS Book 47.
+N:Chords by Mady Newfield.
 M:C|
 L:1/8
 C:T. S. Macdonald
@@ -548,15 +561,6 @@ K:G
 D | B>cd<B A>GE<G | D>B (c/B/)A/G/ F<AD>G | B<cd>B A>GE<G | A>B (c/d/)e/c/ B<G G:|
 f | g>dB<G F<DD>f | (g/f/)e/f/ g>d B<dd>f | g<dB<g b>ga>f | A<B (c/d/)e/c/ B<G G|] 
 
-X:1
-T:Hanſon Library
-M:C|
-L:1/8
-C:T. S. Macdonald
-K:G
-G2 B>G B<dd>B | c>Bd>c B>GF<D | G2 B>G B<dd>B | c>A d/e/d/c/ B<G G2 :||
-g2 b>g f2 a>f | e>de<f g>dB<G | g2 b>g f>ga>f | c>A d/e/d/c/ B<G G2 |\
-g2 b>g f2 a>f | e>de<f g>dB<G | g<be<g d<gB<G | c>A d/e/d/c/ B<G G2 |]
 X:1
 T:The Storm-Loving Laſsie
 M:C|

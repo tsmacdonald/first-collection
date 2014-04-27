@@ -6,19 +6,20 @@ footer "T. S. Macdonald"
    pagewidth 8.5in
 
    topmargin .5in
-   leftmargin .5in
-   rightmargin .5in
+   leftmargin .85in
+   rightmargin .85in
    botmargin .5in
 
-% squash things a bit
-   scale .75
+% spacing
+   scale .7
    maxshrink  0.6
    lineskipfac 1.1
    textspace 0.2cm
-   topspace 0.1cm
-   titlespace 0.2cm
+   topspace 0.2cm
+   titlespace 1cm
    infospace 0.3cm
    stretchlast 0
+   staffsep 48pt
 
 % set up title for each tune
    titleformat P-1 Q-1 T0,B1 O1 T0
