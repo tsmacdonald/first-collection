@@ -7,7 +7,7 @@ L:1/8
 C:T. S. Macdonald
 K:D
 AG    | FDFA d2 Ac | d2 fd ecAG | FDFA d2 Ad | BAFE D2 :|
-A/B/c | defd g2 fe | a2 fe defd |B/c/d ef g2 fe | a2 Ac d2 dA |
+AB/c/ | defd g2 fe | a2 fe defd |B/c/d ef g2 fe | a2 Ac d2 dA |
         B/c/d ef g2 fe | a2 fe defd | FDFA d2 Ad | BAFE D2 |]
 
 X:1
@@ -28,7 +28,7 @@ L: 1/8
 R:reel
 C:T. S. Macdonald
 K:D
-A/B/c | d2AG FDAF | GFED CEAc | d2AG FDAF |1 ^GAB^G A2 :|2 GEAF D2 ||
+A/B/c | d2AG FDAF | GFED CEAc | d2AG FDAF |1 ^GABG A2 :|2 GEAF D2 ||
 DE    | FD DD/D/ DEFD | GE EE/E/ EFGE | FA AA/A/ ABde | fe^df e2 DE |
         FD DD/D/ DEFD | GE EE/E/ EFAc | d2 AG  FDAF | GEAF  D2 |]
 
@@ -55,7 +55,7 @@ M:C|
 L:1/8
 C:T. S. Macdonald
 K:Cm
-e  | c2 G>c E<cG>c | B>df>b f<Bd>=B | c2 G>c E>cC<E | F<D (G/F/)E/D/ E<CC>e |
+e  | c2 G>c E<cG>c | B>df>b f<Bd>=B | c2 G>c E>cC<E | F>D (G/F/)E/D/ E<CC>e |
      c2 G>c E>cG<c | B>df>b (f/e/)d/c/ B>f | g>ec<g f>dB<f | e>c (e/d/)c/=B/ c2 c ||
 =B | c<CC>D E>DC<E | F>DB,<F D<B,B,>=B | c<CC>D E>DC<E | F>D (G/F/)E/D/ E<CC>=B | 
      c<CC>D E>DC<E | D<B,F<B, G<B,D>F | G>ce<g f<dB<f | e>c (e/d/)c/=B/ !turn!c3 |]
@@ -83,7 +83,7 @@ K:Dm
 %%graceslurs 0
 %%text Slow
 "A" DE | F3 G A2 d2 | c2 A2 A2 dc | B3 A G3 F | E2 G2 G2 DE | F3 G A2 d2 | f2 a2 a2 ba | g2 e2 a3 {ba} g | f2 d2 {^c} d2 :|
-"B1" fg | a3 f e2 d2 | c2 A2 A2 ga | b3 c' d'3 c' | b2 g2 g2 fg | a3 g a2 b2 | c'2 a2 a2 ba | g2 e2 a3 {ba} g | f2 d2 {^c} d2 |
+"B1" fg | a3 f e3 d | c2 A2 A2 ga | b3 c' d'3 c' | b2 g2 g2 fg | a3 g a2 b2 | c'2 a2 a2 ba | g2 e2 a3 {ba} g | f2 d2 {^c} d2 |
 "B2" fg | afed cBAG | F2 A2 A2 ga | babc' d'c'ba | b2 g2 g2 [af]g | f3 e d3 A | F2 A2 [DA]2 EF | G2 E2 AGFE | F2 D2 D2 |]
 
 X:1
@@ -120,7 +120,7 @@ M:C|
 C:T. S. Macdonald
 K:A
 C<EA>B (c/B/)A/G/ A2 | C<EA>E D<B,B,2 | C<EA>B (c/d/)e/f/ =g2 |1 e<ca>e c<A A2 :|2 (3edc (3aed c<A A2 ||
-a>ec<A =g>dB<=G | f>de>c d<BB2 | c<Ad<B e<ag>f | e<ca>e c<A A2 |
+a>ec<A =g>dB<=G | f>de>c d<BB2 | c<Ad>B e<ag>f | e<ca>e c<A A2 |
 a>ec<A =g>dB<=G | (3fed (3edc d<BB>c | C<EA>B (c/d/)e/f/ =g2 | (3edc (3aed c<A A2 |]
 
 X:1
@@ -130,9 +130,9 @@ M:C|
 R:Reel
 C:T. S. Macdonald
 K:A
-CEAB ceag | afec dB B2 | CEAB ceaf | ecae cA A2 :|:
-aecA =gdB=G | fdec dB B2 |1 aecA =gdB=G | EBed cA A2 :|2 CEAB ceaf | ecae cA A2 |:
-(3cBA (3ecA (3acA (3ecA | (3cBA ac dB B2 | (3cBA (3ecA (3acA (3ecA | (3Bcd ed cA A2 :|
+CEAB ceag | afec dB B2 | CEAB ceaf | ecae cA A2 :|
+|: aecA =gdB=G | fdec dB B2 |1 aecA =gdB=G | EBed cA A2 :|2 CEAB ceaf | ecae cA A2 ||
+|: (3cBA (3ecA (3acA (3ecA | (3cBA ac dB B2 | (3cBA (3ecA (3acA (3ecA | (3Bcd ed cA A2 :|
 AECA, =G,B,D=G | FDEC DB, B,2 | AECA, =G,B,D=G | ECDB, CA, A,2 | aecA =GBd=g | fdec dB B2 |aecA =GDB,=G, | EBeg aA A2 |]
 
 X:1
@@ -151,14 +151,15 @@ M:6/8
 L:1/8
 K:Amix =g
 %%text March
-E | A>cA Bce | aec dBd | cAc  edc | BGB B2 c | AcA  Bce | aec dBd | cae  fed | cAA A2 ||
-B | cAc eac | dBd dcB | cAc edc | BGB B2 d | cAc eac | dBd dcB | cac fed | cAA A2 |]
+E | A>cA Bce | aec dBd | cAc  edc | BGB B2 c | AcA  Bce | aec dBd | c<ae  fed | cAA A2 ||
+B | cAc eac | dBd dcB | cAc edc | BGB B2 d | cAc eac | dBd dcB | c<ac fed | cAA A2 |]
 
 X:1
 T:The Marquis of Tweeddale's Proclamation
 M:C|
 L:1/8
 C:T. S. Macdonald
+N:
 N:If they found it would tend to the advancement of trade that an Act be paſsed for the encouragement of ſuch as ſhould acquire and eſtabliſh
 N:a plantation in Africa or America, or any other part of the world where plantations might lawfully be acquired, His Majeſty was willing to
 N:declare that he would grant to hiſ ſubjects in Scotland, in favour of their plantations, ſuch rights and privileges as he was accuſtomed to grant
@@ -167,10 +168,10 @@ N:
 N:Opening Addreſs given to Parliament by John Hay, First Marquis and Second Earl of Tweeddale and Lord Chancellor of Scotland
 N:May 9, 1695
 K:D
-D<dc<d A<F D2 | e>f (g/f/)e/d/ c<ee>f | D<dc>d A<F D2 | E>e d/c/B/A/ d2 !turn!d2 |
-D<dc>d A<F D2 | e>f g/f/e/d/ c/d/e/c/ A2 | D<dc>d B<dg>b | a>f (a/g/)f/e/ f<dd>f ||
-a<df<d (A/B/)c/d/ e>f | g>fe>d c<ee>f | a<df<d (A/B/)c/d/ e>f | g<ba>g f<dd>f |
-a<df<d e>cd>A | (3 Bcd A>F G<EE>F | D<dc>d B<dg>b | a>f (a/g/)f/e/ f<dd>f |]
+D<dc>d A<F D2 | e>f (g/f/)e/d/ c<ee>f | D<dc>d A<F D2 | E>e d/c/B/A/ d2 !turn!d2 |
+D<dc>d A<F D2 | e>f g/f/e/d/ c/d/e/c/ A2 | D<dc>d B<dg>b | a>f (a/g/)f/e/ f<d d ||
+f | a<df<d (A/B/)c/d/ e>f | g>fe>d c<ee>f | a<df<d (A/B/)c/d/ e>f | g<ba>g f<dd>f |
+a<df<d e>cd>A | (3 Bcd A>F G<EE>F | D<dc>d B<dg>b | a>f (a/g/)f/e/ f<d d2 |]
 
 
 X:1
@@ -181,7 +182,7 @@ R:reel
 N:Written as a ſecondary tune for Cryſtal Congratulations, a dance by Moira Turner.
 C:T. S. Macdonald
 K:A
-c | dBAG A2 ed | cBAc dBBe | eBAG A2 Bc | deBd cAA :|:
+c | dBAG A2 ed | cBAc dBBe | dBAG A2 Bc | deBd cAA :|:
 B | c2 c2 d2 ed | cefa ecAB | c2 c2 d2 Bc | deBd cAA :|:
 g | agfe f3 g | af f/f/f bagf | agfe f3 g | afeg aff :|:
 e | fedc dcBA | c2 c2 d3 e | fedc dcBc | deBd cAA :|:
@@ -189,6 +190,7 @@ B | c2 c2 B3 A Bded cAAB  | c2 c2 B3 c | dBed cAA :|]
 
 X:1
 T:Fogbound
+T:For David Gardner
 C:T. S. Macdonald
 M:C|
 L:1/8
@@ -201,6 +203,7 @@ B,EGB, EGBe | gef^d e=dBA | GBeg fedB | AFdF GE E2 |]
 
 X:1
 T:Into the Drink
+T:For David Gardner
 C:T. S. Macdonald
 M:C|
 L:1/8
@@ -296,8 +299,8 @@ K:D
 %%text Slowiſh
 A>B | d2 A>B d>AB<d | e>fg>f e2 A>B | d2 A>B d>BA<F | E6 A>B |
       d2 A>B d>AB<d | e>fg<b a>fe<d | e>fg>f e<AB>A | B2 d2 d2 ||
-e>f | g2 e>f g>f e<d | g>fe<d B2 e>f | g2 e>f g>fe<d | A6 e>f |
-      g2 e>f g>fe<d | e<dB>A B2 A<F | A>Bg>f e<AB>A | B2 d2 d2 |]
+e>f | g2 e>f g>fe<d | g>fe<d B2 e>f | g2 e>f g>fe<d | A6 e>f |
+      g2 e>f g>fe<d | e<dB>A B2 A>F | A<Bg>f e<AB>A | B2 d2 d2 |]
 
 X:1
 T:Out of the Trenches
@@ -308,12 +311,12 @@ C:T. S. Macdonald
 K:Em
 %%text Very Slow
 ed | B3 A Bd | e4 dB | A3 G ED | B,4 A,G, | A,3 F GB | A4 GF | E6 | E4 :|
-GA | B3 e gb | a4 EF | G2 B  AF | D4 GA | B3 e gb | a4 ga | b6 | b4 GA |
-     B3 e gb | a4 EF | G3 B2 AF | D4 GA | BA Be gb | a4 {ba}gf | e6 | [Be]4 ||
+GA | B3 e gb | a4 EF | G3 B AF | D4 GA | B3 e gb | a4 ga | b6 | b4 GA |
+     B3 e gb | a4 EF | G2 B2 AF | D4 GA | BA Be gb | a4 {ba}gf | e6 | [Be]4 ||
 ED | B,3 A, B,D & D6 | E4 DE & B,6 | G3 D DB, & B,6 | G,4 A,G, & D6 | A,3 F GB & E6 | A4 GF & F6 | E6 & A6 | E4 ED & B,6 |
      B,3 A, B,D | E4 DE | G3 D DB, | G,4 A,2 | B,4 B2 | A4 FD | E6 | [BE]4 ||
 gf | g3 b ge | f4 gf | e3 f  e^d | e4 BA | B3 e gb | a4 ga | b6 | b4 gf |
-     g3 b ge | f4 gf | e2 f2 e^d | e4 BA | B3 e gb | a4 {ba}gf | e6 | [EBe]4 |] 
+     g3 b ge | f4 gf | e2 f2 e^d | e4 BA | B3 e gb | a4 {ba}gf | e6 | e4 |] 
 
 X:1
 T:Putting Down the Nets
@@ -334,9 +337,9 @@ L:1/8
 M:C|
 K:G
 c | B<GG>D B,<DG,>B | c<AA>G F>AD>c | B<GG>D B,>DG>B | (c/B/)A/G/ F>d B<GG>c |
-    B<GG>D B,<DG,>B | c<AA>G F>AD>c | B<GG>D B,>DG>B | (c/d/)e/c/ A>f g<GG>f ||
-    g<bb>g f<aa>f | g/f/e/d/ c/B/A/G/ F<AA>f | g<bb>g f<aa>f | g/f/e/d/ e/f/g/a/ b<gg>f |
-    g<bb>g f<aa>f | g>fe>d c/d/c/B/ A/G/F/E/ | D<GG>D B,>DG>B | (c/d/)e/c/ A>f g<GG |]
+    B<GG>D B,<DG,>B | c<AA>G F>AD>c | B<GG>D B,>DG>B | (c/d/)e/c/ A>f g<G G ||
+f | g<bb>g f<aa>f | g/f/e/d/ c/B/A/G/ F<AA>f | g<bb>g f<aa>f | g/f/e/d/ e/f/g/a/ b<gg>f |
+    g<bb>g f<aa>f | g>fe>d c/d/c/B/ A/G/F/E/ | D<GG>D B,>DG>B | (c/d/)e/c/ A>f g<G G |]
 
 X:1
 T:Fiſhing for Men
@@ -375,7 +378,7 @@ T:Lament for the Public's Ability to Diſtinguiſh Celtic Cultures
 M:C|
 L:1/2
 K:C
-+arpeggio++fermata+[^CD_ef]+slide+[=CD__e_f]|]
++arpeggio+[^CD_ef]+slide++fermata+[CDe_f]|]
 
 X:1
 T:The Munchkin's Strathſpey
@@ -420,6 +423,16 @@ d/c/ | B G D B, | G,3 A/B/ | c e g B | c3 d/c/ | B G d B | c/d/e/f/ g f/e/ | d B
 B/c/ | d g f g | d3 c/d/ | e c d B | A3 d/c/ | B G d B c/d/e/c/ A B/c/ | d B A B | G3 |]
 
 X:1
+T:Farewell to Fiddletree
+C:T. S. Macdonald
+L:1/8
+M:3/4
+K:Em
+%%text Slow
+ED |  E3 F A2 | B4 AF | G2 E2 E2 | E3 D ED | E3 F A2 | B4 AF | E2 e3 ^d | e3 B ef |
+      g3 e dB | G4 cB | A3 G AE | C3 D ED | E3 F A2 | B4 AF | E2 e3 ^d | e4 |]
+
+X:1
 T:Iſland Wind Shadow
 C:T. S. Macdonald
 M:6/8
@@ -439,16 +452,6 @@ cea c'ae | cae fBB | cAe caf | gf^d e2 f | cea c'ae | cae fdc | dAF DA,D | ECA, 
 cAE ecA | dBF DB,A, | cAE ecA | FE^D E2 B | ecA acA | Bdf bfd | afd AFD | ECA, A,3 |]
 
 X:1
-T:Farewell to Fiddletree
-C:T. S. Macdonald
-L:1/8
-M:3/4
-K:Em
-%%text Slow
-ED |  E3 F A2 | B4 AF | G2 E2 E2 | E3 D ED | E3 F A2 | B4 AF | E2 e3 ^d | e3 B ef |
-      g3 e dB | G4 cB | A3 G AE | C3 D ED | E3 F A2 | B4 AF | E2 e3 ^d | e4 |]
-
-X:1
 T:Brianna Victoria
 M:6/8
 L:1/8
@@ -463,9 +466,20 @@ C:T. S. Macdonald
 M:6/8
 L:1/8
 K:D
-g | f2 d dfd | ecA ABc | dcd AFD | EFE E2 g | f2 d dfd | ecA ABc | def edc | dAF D2 g |
-    f2 d dfd | ecA ABc | dcd AFD | EFE E2 g | f2 g afa | bge dBc | def edc | dAF D2 ||
+g | f2 (d d)fd | ecA ABc | dcd AFD | EFE E2 g | f2 (d d)fd | ecA ABc | def edc | dAF D2 g |
+    f2 (d d)fd | ecA ABc | dcd AFD | EFE E2 g | f2 g afa   | bge dBc | def edc | dAF D2 ||
 |:E | F2 A dAF | EGB egb | a2 f dAF | EFE E2 G | F2 A dAF | EGB e2 c | def edc | dAF D2 :|]
+
+X:1
+T:Blueberry Pie!
+C:T. S. Macdonald
+M:C|
+L:1/8
+K:D
+g | fd d/d/d AFDF | G=cG=F E(=CC)g | fd d/d/d AFDF | GBde f(dd)g |
+    fd d/d/d AFDF | G=cG=F E(=CC)E | FDGE AFGB | Aceg f(dd) ||
+e | fdad ec c/c/c | dBfB cA A/A/A | BGdB Acdf | geag f(dd)e |
+    fdad ec c/c/c | dBfB cA A/A/A | FDGE AFGB | Aceg fdd |]
 
 X:1
 T:The Cowgate
@@ -484,10 +498,9 @@ T:John Turner's Magic Kingdom
 C:T. S. Macdonald
 L:1/8
 M:6/8
-N:The compoſer has forgotten the origins of the title.
+N:The compoſer has forgotten the origins of the title and the purpoſe of the tune.
 K:Amix =g
-%%text Slow
-a2 A A>BA | BAB A2 G | g2 B BAB | dBB B2 b | aba g2 e | dBg | G2 B | ABc dBG |  BAA A3 :|]
+  a2 A A>BA | BAB A2 G | g2 B BAB | dBB B2 b | aba g2 e | dBg G2 B | ABc dBG | BAA A3 :|]
 |: g2 b afd | ecA A2 e | f2 g fdB | cAF F2 E | ABA B2 e | dBg G2 B | ABc dBG | BAA A3 :|]
 
 X:1
@@ -524,16 +537,6 @@ D2 A2 F2 | GFED E2 | dc BA GF | EFEC A,2 | DF Ad fa | CE Ac ea | gf ag fg | !tri
 a2 f2 d2 | ABcd e2 | fb fd Bd | cdec A2 | gf ed cB | ag fe dc | (3 bag f2 !trill!e2 | d6 |]
 
 X:1
-T:Hanſon Library
-M:C|
-L:1/8
-C:T. S. Macdonald
-K:G
-G2 B>G B<dd>B | c>Bd>c B>GF<D | G2 B>G B<dd>B | c>A d/e/d/c/ B<G G2 :||
-g2 b>g f2 a>f | e>de<f g>dB<G | g2 b>g f>ga>f | c>A d/e/d/c/ B<G G2 |\
-g2 b>g f2 a>f | e>de<f g>dB<G | g<be<g d<gB<G | c>A d/e/d/c/ B<G G2 |]
-
-X:1
 T:Aging Gracefully
 N:Compoſed for Carlyn Bromann's dance of the ſame name in RSCDS Book 47.
 N:Chords by Mady Newfield.
@@ -542,8 +545,8 @@ L:1/8
 C:T. S. Macdonald
 K:G
 %%text Slowly when not danced
-B>c | "G"d2 B>d "G"g>dB>G | "C"c>A (c/B/)A/G/ "D"F<AA>B | "G"d>cB<d "G"g<dB>G | "C"E>c "D"(B/A/)G/F/ "G"G2 B>c |
-      "G"d2 B>d "G"g>dB>G | "C"c>A c/B/A/G/ "D"F/G/A/F/ D>B | "G"d>cB<d "G"g<dB>G | "C"E>c "D"(B/A/)G/F/ "G"G3 ||
+B>c | "G"d2 B>d g>dB>G | "C"c>A (c/B/)A/G/ "D"F<AA>B       | "G"d>cB<d g<dB>G | "C"E>c "D"(B/A/)G/F/ "G"G2 B>c |
+      "G"d2 B>d g>dB>G | "C"c>A c/B/A/G/   "D"F/G/A/F/ D>B | "G"d>cB<d g<dB>G | "C"E>c "D"(B/A/)G/F/ "G"G3 ||
 d   | "G"g>de>B "Am"c<AA>B | "C"c/B/c/d/ e/d/c/B/ "D"A/G/F/E/ D>d | "G"g>de<B "Am"c<AB>G | "C"E>C "D"(B,/C/)D/B,/ "G"G,3 d |
       "G"g>de>B "Am"c<AA>B | "C"c>BA>G "D"F<DD>C | "G"B,<DG,>B, "C"C<E"Am"A,>c | "G"B>G "D"(B/A/)G/F/ "G"G3 ||
 d   | "G"b>fg>e "Bm"f<dd>B | "Am"c/B/c/d/ e/f/g/a/ "D"f<dd>a | "Em"b>ge<g "D"a>gf<d | "C"e>c "D"(B/c/)d/c/ "G"B<GG>d |
@@ -559,7 +562,17 @@ C:T. S. Macdonald
 K:G
 %%text Slowiſh
 D | B>cd<B A>GE<G | D>B (c/B/)A/G/ F<AD>G | B<cd>B A>GE<G | A>B (c/d/)e/c/ B<G G:|
-f | g>dB<G F<DD>f | (g/f/)e/f/ g>d B<dd>f | g<dB<g b>ga>f | A<B (c/d/)e/c/ B<G G|] 
+f | g>dB<G F<DD>f | (g/f/)e/f/ g>d B<dd>f | g<dB<g b>ga>f | A>B (c/d/)e/c/ B<G G|] 
+
+X:1
+T:Hanſen Library
+M:C|
+L:1/8
+C:T. S. Macdonald
+K:G
+G2 B>G B<dd>B | c>Bd>c B>GF<D | G2 B>G B<dd>B | c>A d/e/d/c/ B<G G2 :|]
+g2 b>g f2 a>f | e>de<f g>dB<G | g2 b>g f>ga<f | c>A d/e/d/c/ B<G G2 |\
+g2 b>g f2 a>f | e>de<f g>dB<G | g<be<g d<gB<G | c>A d/c/B/A/ B<G G2 |]
 
 X:1
 T:The Storm-Loving Laſsie
@@ -585,17 +598,6 @@ cd | eAcA a2 cd | eAcA a2 cd | eAea fedc | B2 B/B/B B2 cd |
      eAcA a2 cd | eAcA a2 gf | efed edBG | A2 A/A/A A2 |]
 
 X:1
-T:Blueberry Pie!
-C:T. S. Macdonald
-M:C|
-L:1/8
-K:D
-g | fd d/d/d AFDF | G=cG=F E(=CC)g | fd d/d/d AFDF | GBde f(dd)g |
-    fd d/d/d AFDF | G=cG=F E(=CC)E | FDGE AFGB | Aceg f(dd) ||
-e | fdad ec c/c/c | dBfB cA A/A/A | BGdB Acdf | geag f(dd)e |
-    fdad ec c/c/c | dBfB cA A/A/A | FDGE AFGB | Aceg f(dd) |]
-
-X:1
 T:Compliments to the LeDucs
 L:1/8
 M:C|
@@ -607,7 +609,7 @@ d | g>db<g a/g/f/e/ d>f | e>fg>d c<AA>d | g>db<g a<ff>d | c>e d/c/B/A/ B<GG>f |
 g>db<g a/g/f/e/ d>f | e>fg>d c<AA>B | G>DB<G d<Bg>B | c>e d/c/B/A/ B<G G |]
 
 X:1
-T:The Pirates
+T:Mrs Troxler and the Pirates
 C:T. S. Macdonald
 M:C|
 L:1/8
@@ -637,7 +639,7 @@ K:D
 %%text March
 A2  | B2 E2 E3 A | B>AB<d B>AF>G | A2 F2 F3 E | D>EF>G A>FA<d |
       B2 E2 E3 A | B>AB<d B>AF>E | D>B,A,>C B,>G,A,<D | B,2 G,2 G,2 ||
-A,2 | B,>A,B,<D B,2 A,2 | G,>A, B,<C D2 B,2 | C>B,C<D E2 C2 | D>CB,>A, G,2 A,2 |
+A,2 | B,>A,B,<D B,2 A,2 | G,>A,B,<C D2 B,2 | C>B,C<D E2 C2 | D>CB,>A, G,2 A,2 |
       B,>A,B,<D C>B,C<E | D>CD<B g2 f>e | d>ed>B d>BA>F | G2 [B,G]2 [G,G]2 |]
 
 X:1
@@ -679,6 +681,7 @@ a<cb>c d>cB<c  | A<Ec>A d<c B2 | E<A c2 e<c a2 | f>dB<G A2 A2 |
 
 X:1
 T:Midnight Friſbee
+T:For Greg Pine
 C:T. S. Macdonald
 M:C|
 L:1/8
@@ -696,7 +699,7 @@ L:1/8
 K:Gm
 F | D<GG>A B>GB<d | c>BA>G F<CC>F | D<GG>A B>GD<B, | (3B,CD (3GAc B<GG>F |
     D<GG>A B>GB<d | (c/B/)A/B/ c>G F<CC>F | D<GG>A B>GB<d | (3cBc (3dcA B>G G ||
-d | b>BA<F g>dB<G | f>c (e/d/)c/B/ A<cc>d | b>BA<F G>Bd<g | (3cBc (3dcA B>G G>d |
+d | b>BA<F g>dB<G | f>c (e/d/)c/B/ A<cc>d | b>BA<F G>Bd<g | (3cBc (3dcA B>GG>d |
     b<Ba<B g<dB>G | f>c (e/d/)c/B/ A<cc>E | D<GG>A B>GD<B, | (3B,CD (3GAc B<G G |]
 
 
@@ -705,6 +708,7 @@ T:A Chaſing after the Wind
 M:3/4
 L:1/8
 C:T. S. Macdonald
+N:
 N:...My heart took delight in all my work, and this was the reward for all my labor.
 N:Yet when I ſurveyed all that my hands had done and what I had toiled to achieve,
 N:everything was meaningleſs, a chaſing after the wind...
