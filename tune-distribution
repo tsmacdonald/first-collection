@@ -1,0 +1,2 @@
+#!/bin/sh
+cat all.abc | grep 'R:' | cut -c 3- | sort | uniq -c | sort -gr

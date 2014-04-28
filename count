@@ -1,2 +1,2 @@
 #!/bin/bash
-cat *.abc | grep 'X:' | wc -l
+cat *.abc | grep 'R:' | wc -l
