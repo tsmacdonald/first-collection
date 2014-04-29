@@ -112,7 +112,7 @@ K:A
 c/d/ | e>a ga .f.d Bc/d/ | (ec).A.c (B/A/)G/F/ EA/B/ | c>B ca .e.c a>f | ecdB .c.A A :|:
 G/A/ | B>c dB .e.c AB/c/ | (d/c/d/)(f/ e/f/)g/a/ e/(c/B/A/) BG/A/ | B>c df .e.c a>f | e/c/B/A/ E/F/A/B/ .c.A A2 :|:
 K:Am
-"Legato e misterioso"e/d/ | c>B cA Bd GA/B/ | c/B/c/d/ e/c/B/A/ B/A/^G/^F/ EA/B/ | c>B ca ec A>c | d/c/B/A/ ^G/A/B/G/ EA A :|
+"Legato e miſterioſo"e/d/ | c>B cA Bd GA/B/ | c/B/c/d/ e/c/B/A/ B/A/^G/^F/ EA/B/ | c>B ca ec A>c | d/c/B/A/ ^G/A/B/G/ EA A :|
 K:A
 G/A/ | B>c dB .e.c AB/c/ | Ld/(c/B/A/) Le/(c/B/A/) .c.B BG/A/ | B>c df .e.c A>c | d/c/B/A/ G/A/B/G/ .E.A A G/A/ |
 B>c dB .e.c AB/c/ | (d/c/d/)(f/ e/f/)g/a/ e/(c/B/A/) BG/A/ | B>c df .e.c a>f | e/c/B/A/ G/F/E/D/ CA, A, |]
@@ -720,6 +720,16 @@ b>{ag}f g>d B<GG>B | A<=fc<f A<=FF>A | G{A}>B{c}d>c B<GG>B | (3FDF (3ABc B<G G2 
 (b/a/)g/f/ g>d B<GG>B | A<=fc<f A<=FF>A | B<Gc<A d<Be>B | (3cdB (3Adf g<G G2 ||
 G<DD>G A>G=F>E | =F<CC>F (3CFA (3cA^F | G<DD>G B>GB<g   | (3cBc (3dcA B<G G2 |
 G<DD>G A>G=F>E | =F<CC>F (3CFA (3cA^F | G<DB<G d<Bg>B   | (3cBc (3ABc B<G G2 |]
+
+X:1
+T:Wind Sea on the Loch
+C:T. S. Macdonald
+R:jig
+L:1/8
+M:6/8
+K:Am
+B, | CEE B,EE | A,EE G,2 A, | B,DG BGD | B,GD EDB, | CEE B,EE | A,EE G,2 e | cBA aec | dBc A2 |]
+B | cEE dcd | ecA B2 d | cee fed | edc dcB | cEE dcd | ede a2 f | gdB GBe | EDB, A,2 |]
 
 X:1
 T:Charles's Toothpick
