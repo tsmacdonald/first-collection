@@ -1,3 +1,17 @@
+% Small note support by Hudson Lacerda
+%%setdefl
+
+%%beginps
+/head-small'{gsave T .6 dup scale 1 0 hd grestore}!
+/head-small,{gsave T .6 dup scale -1 0 hd grestore}!
+/head-small {defl 4 and 0 eq {head-small,}{head-small'}ifelse} !
+/head-open-small'{gsave T .6 dup scale 1 0 Hd grestore}!
+/head-open-small,{gsave T .6 dup scale -1 0 Hd grestore}!
+/head-open-small {defl 4 and 0 eq {head-open-small,}{head-open-small'}ifelse} !
+%%endps
+%%deco head-small 0 head-small 0 0 0
+%%deco head-open-small 0 head-open-small 0 0 0
+
 X:1
 T:Parry Macdonald's Birthday
 N:The compoſer's first work. May, 2006.
@@ -87,7 +101,7 @@ K:Dm
 %%text Slow
 "A" DE | F3 G A2 d2 | c2 A2 A2 dc | B3 A G3 F | E2 G2 G2 DE | F3 G A2 d2 | f2 a2 a2 ba | g2 e2 a3 {ba} g | f2 d2 {^c} d2 :|
 "B1" fg | a3 f e3 d | c2 A2 A2 ga | b3 c' d'3 c' | b2 g2 g2 fg | a3 g a2 b2 | c'2 a2 a2 ba | g2 e2 a3 {ba} g | f2 d2 {^c} d2 |
-"B2" fg | afed cBAG | F2 A2 A2 ga | babc' d'c'ba | b2 g2 g2 [af]g | f3 e d3 A | F2 A2 [DA]2 EF | G2 E2 AGFE | F2 D2 D2 |]
+"B2" fg | afed cBAG | F2 A2 A2 ga | babc' d'c'ba | b2 g2 g2 [!head-small!fa]g | f3 e d3 A | F2 A2 [D!head-small!A]2 EF | G2 E2 AGFE | F2 D2 D2 |]
 
 X:1
 T:She's Off and Away with my Fiddle
@@ -109,7 +123,7 @@ R:march
 C:T. S. Macdonald
 K:A
 %%text March
-c/d/ | e>a ga .f.d Bc/d/ | (ec).A.c (B/A/)G/F/ EA/B/ | c>B ca .e.c a>f | ecdB .c.A A :|:
+c/d/ | e>a ga .f.d Bc/d/ | (ec) .A.c (B/A/)G/F/ EA/B/ | c>B ca .e.c a>f | ec dB .c.A A :|:
 G/A/ | B>c dB .e.c AB/c/ | (d/c/d/)(f/ e/f/)g/a/ e/(c/B/A/) BG/A/ | B>c df .e.c a>f | e/c/B/A/ E/F/A/B/ .c.A A2 :|:
 K:Am
 "Legato e miſterioſo"e/d/ | c>B cA Bd GA/B/ | c/B/c/d/ e/c/B/A/ B/A/^G/^F/ EA/B/ | c>B ca ec A>c | d/c/B/A/ ^G/A/B/G/ EA A :|
@@ -289,8 +303,8 @@ R:air
 M:C
 K:G
 %%text Slow
-B2 d2 c3 A | BAGF GE E2 | B2 d2 c3 A | BABd eA A2 | [BG]2 [Dd]2 [Ec]3 A | BAGF GE E2 | B,2 D2 C3 E | DCB,A, B,G, G,2 ||
-g2 d2 e3 c | Bdeg fA A2 | g2 f2 a3 b | afe^c dB B2 | g2 f2 e3 d | edBA GE E2 | B2 d2 c3 e | dcBA BG G2 |]
+B2 d2 c3 A | BAGF GE E2 | B2 d2 c3 A | BABd eA A2 | [!head-small!GB]2 [!head-small!Dd]2 [!head-small!Ec]3 A | BAGF GE E2 | B,2 D2 C3 E | DCB,A, B,G, G,2 ||
+g2 d2 e3 c | Bdeg fA A2 | g2 f2 a3 b | afe^c dB B2 | [!head-small!Bg]2 [!head-small!Af]2 [!head-small!Ge]3 d | edBA GE E2 | B2 d2 c3 e | dcBA BG G2 |]
 
 X:1
 T:Mr Archibald of Belgrade
@@ -328,8 +342,8 @@ K:Em
 ed | B3 A Bd | e4 dB | A3 G ED | B,4 A,G, | A,3 F GB | A4 GF | E6 | E4 :|
 GA | B3 e gb | a4 EF | G3 B AF | D4 GA | B3 e gb | a4 ga | b6 | b4 GA |
      B3 e gb | a4 EF | G2 B2 AF | D4 GA | BA Be gb | a4 {ba}gf | e6 | [Be]4 ||
-ED | B,3 A, B,D & D6 | E4 DE & B,6 | G3 D DB, & B,6 | G,4 A,G, & D6 | A,3 F GB & E6 | A4 GF & F6 | E6 & A6 | E4 ED & B,6 |
-     B,3 A, B,D | E4 DE | G3 D DB, | G,4 A,2 | B,4 B2 | A4 FD | E6 | [BE]4 ||
+ED | B,3 A, B,D & !head-open-small!D6 | E4 DE & !head-open-small!B,6 | G3 D DB, & !head-open-small!B,6 | G,4 A,G, & !head-open-small!D6 | A,3 F GB & !head-open-small!E6 | A4 GF & !head-open-small!F6 | E6 & !head-open-small!A6 | E4 ED & !head-open-small!B,6 |
+     B,3 A, B,D | E4 DE | G3 D DB, | G,4 A,2 | B,4 B2 | A4 FD | E6 | [!head-open-small!BE]4 ||
 gf | g3 b ge | f4 gf | e3 f  e^d | e4 BA | B3 e gb | a4 ga | b6 | b4 gf |
      g3 b ge | f4 gf | e2 f2 e^d | e4 BA | B3 e gb | a4 {ba}gf | e6 | e4 |] 
 
@@ -693,7 +707,7 @@ K:D
 A2  | B2 E2 E3 A | B>AB<d B>AF>G | A2 F2 F3 E | D>EF>G A>FA<d |
       B2 E2 E3 A | B>AB<d B>AF>E | D>B,A,>C B,>G,A,<D | B,2 G,2 G,2 ||
 A,2 | B,>A,B,<D B,2 A,2 | G,>A,B,<C D2 B,2 | C>B,C<D E2 C2 | D>CB,>A, G,2 A,2 |
-      B,>A,B,<D C>B,C<E | D>CD<B g2 f>e | d>ed>B d>BA>F | G2 [B,G]2 [G,G]2 |]
+      B,>A,B,<D C>B,C<E | D>CD<B g2 f>e | d>ed>B d>BA>F | G2 [!head-small!B,G]2 [!head-small!G,G]2 |]
 
 X:1
 T:The Dancer in the Tower
@@ -740,9 +754,9 @@ R:strathspey
 K:A
 %%text March
 E<A A2 e<A c2 | e>Af>A e>cB<c | E<A A2 e<A c2 | f/g/a e>c d<B B2 |
-E<A A2 e<A c2 | e>Af>A g<Aa>A | b>ag<f e>ca>f | e<ca<c A2 [EA]2 ||
+E<A A2 e<A c2 | e>Af>A g<Aa>A | b>ag<f e>ca>f | e<ca<c A2 [!head-small!EA]2 ||
 a<cb>c d>cB<c  | A<Ec>A d<c B2 | E<A c2 e<c a2 | f>dB<G A2 A2 |
-+2+a<cb<c +4+c'>+2+cB<c | d<fe>c d<c B2 | b>ag>f e<ca>f | e<ca<c A2 [A,EA]2 |]
++2+a<cb<c +4+c'>+2+cB<c | d<fe>c d<c B2 | b>ag>f e<ca>f | e<ca<c A2 [!head-small!A,!head-small!EA]2 |]
 
 
 X:1
