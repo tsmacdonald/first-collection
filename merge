@@ -1,2 +1,2 @@
 #!/bin/sh
-pdftk A=all.pdf B=preamble.pdf C=spacer.pdf cat B A1-2 C A3-end output releases/macdonald_collection.pdf
+pdftk A=all.pdf B=preamble.pdf C=spacer.pdf D=cover.pdf cat D C C B A1-2 C A3-end output releases/macdonald_collection.pdf
