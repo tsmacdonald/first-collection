@@ -1,2 +1,2 @@
 #!/bin/bash
-abcm2ps $1.abc -O $1.ps -F style.fmt && ./abcmaddidx.tcl -b $1.ps $1toc.ps && rm $1.ps && mv $1toc.ps $1.ps && ps2pdf $1.ps && rm $1.ps
+abcm2ps $1.abc -O $1.ps -F style.fmt && ./abcmaddidx.tcl -b $1.ps $1toc.ps && rm $1.ps && mv $1toc.ps $1.ps && ps2pdf -sPAPERSIZE=letter $1.ps && rm $1.ps
