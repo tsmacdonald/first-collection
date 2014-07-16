@@ -44,8 +44,8 @@ R:reel
 C:T. S. Macdonald
 K:D
 A/B/c | d2AG FDAF | GFED CEAc | d2AG FDAF |1 ^GABG A2 :|2 GEAF D2 ||
-DE    | FD DD/D/ DEFD | GE EE/E/ EFGE | FA AA/A/ ABde | fe^df e2 DE |
-        FD DD/D/ DEFD | GE EE/E/ EFAc | d2 AG  FDAF | GEAF  D2 |]
+DE    | FD D/D/D DEFD | GE E/E/E EFGE | FA A/A/A ABde | fe^df e2 DE |
+        FD D/D/D DEFD | GE E/E/E EFAc | d2 AG  FDAF | GEAF  D2 |]
 
 X:1
 T:Mr Mackintoſh Goes to London
@@ -71,9 +71,9 @@ L:1/8
 R:strathspey
 C:T. S. Macdonald
 K:Cm
-e  | c2 G>c E<cG<c | B>df>b f<Bd>=B | c2 G>c E<cC>E | F<D (G/F/)E/D/ E<CC>e |
-     c2 G>c E<cG<c | B>df>b (f/e/)d/c/ B>f | g>e!beambr1!c<g f>d!beambr1!B<f | e>c (e/d/)c/=B/ c2 c ||
-=B | c<CC>D E>D!beambr1!C<E | F>D!beambr1!B,<F D<B,B,>=B | c<CC>D E>D!beambr1!C<E | F<D (G/F/)E/D/ E<CC>=B | 
+e  | c2 G>c E<cG<c | B>d!beambr1!f<b f<Bd>=B | c2 G>c E<cC>E | F>D (G/F/)E/D/ E<CC>e |
+     c2 G<c E<cG<c | B>df>b (f/e/)d/c/ B>f | g>e!beambr1!c<g f>d!beambr1!B<f | e>c (e/d/)c/=B/ c2 c ||
+=B | c<CC>D E>D!beambr1!C<E | F>D!beambr1!B,<F D<B,B,>=B | c<CC>D E>D!beambr1!C<E | F>D (G/F/)E/D/ E<CC>=B | 
      c<CC>D E>D!beambr1!C<E | D<B,F<B, G<B,D>F | G>c!beambr1!e<g f<dB>f | e>c (e/d/)c/=B/ !turn!c3 |]
 
 X:1
@@ -84,7 +84,7 @@ R:reel
 C:T. S. Macdonald
 K:Cm
 =B | c2 ec GcEc | DBFE DB,B,=B | c2 ec GcEc | FD G/F/E/D/ ECC=B |
-     c2 ec GcEc | DBFE DB,B,D | EGce dc=Bd | ecd=B c3 ||
+     c2 ec GcEc | DBFE DB,B,D | EGce dc=Bd | ecd=B c2 c ||
 d | ec c/c/c egfe | dB B/B/B FB B/B/B | ec c/c/c egfe | dba^f  g2 cd |
     ec c/c/c egfe | dB B/B/B FBDB | EGce dc=Bd | ecd=B c3 |]
 
@@ -139,7 +139,7 @@ R:strathspey
 C:T. S. Macdonald
 K:A
 C<EA>B (c/B/)A/G/ A2 | C<EA>E D<B,B,2 | C<EA>B (c/d/)e/f/ =g2 |1 e<ca>e c<A A2 :|2 (3edc (3aed c<A A2 ||
-a>e!beambr1!c<A =g>d!beambr1!B<=G | f<de<c d<BB2 | c<Ad>B e<ag>f | e<ca>e c<A A2 |
+a>e!beambr1!c<A =g>d!beambr1!B<=G | f<de>c d<BB2 | c<Ad>B e<ag>f | e<ca>e c<A A2 |
 a>e!beambr1!c<A =g>d!beambr1!B<=G | (3fed (3edc d<BB>c | C<EA>B (c/d/)e/f/ =g2 | ef/g/ a>e c<A A2 |]
 
 X:1
@@ -187,7 +187,7 @@ N:a plantation in Africa or America, or any other part of the world where planta
 N:declare that he would grant to his ſubjects in Scotland, in favour of their plantations, ſuch rights and privileges as he was accuſtomed to grant
 N:to the ſubjects of his other dominions.
 N:
-N:Opening Addreſs given to Parliament by John Hay, First Marquis and Second Earl of Tweeddale and Lord Chancellor of Scotland
+N:Opening Addreſs given to Parliament by John Hay, Firſt Marquis and Second Earl of Tweeddale and Lord Chancellor of Scotland
 N:May 9, 1695
 K:D
 D<dc>d A<F D2 | e>f (g/f/)e/d/ c<ee>f | D<dc>d A<F D2 | E>e d/c/B/A/ d2 !turn!d2 |
@@ -280,9 +280,9 @@ L:1/8
 C:T. S. Macdonald
 K:G
 %%text Slow
-BA | G3 F GA | B4 AB | c3 E AG | G3 F BA| G3 F GA | B4 AB | c3 E GF |1 G4 :|2 G3 B |
-ef | g3 f ed | B3 {A}B ef | g3  f ga | b4 ga | b3 a ge | d4 ge | d3 B AB  | G3 B ef |
-     g3 f ed | B3 {A}B ef | g2 gf ga | b4 ga | b3 a ge | d4 ge | de dB AB | G4 |]
+BA | G3 F GA | B4 AB | c3 E AG | G3 F BA| G3 F GA | B4 AB | c3 E GF | G4 :|
+ef | g3 f ed | B3 B ef | g3  f ga | b4 ga | b3 a ge | d4 ge | d3 B AB  | G3 B ef |
+     g3 f ed | B3 B ef | g2 gf ga | b4 ga | b3 a ge | d4 ge | de dB AB | G4 |]
 
 X:1
 T:Miriam-Roſe's Waltz
@@ -342,7 +342,7 @@ K:Em
 ed | B3 A Bd | e4 dB | A3 G ED | B,4 A,G, | A,3 F GB | A4 GF | E6 | E4 :|
 GA | B3 e gb | a4 EF | G3 B AF | D4 GA | B3 e gb | a4 ga | b6 | b4 GA |
      B3 e gb | a4 EF | G2 B2 AF | D4 GA | BA Be gb | a4 {ba}gf | e6 | [!head-open-small!Be]4 ||
-ED | B,3 A, B,D & !head-open-small!D6 | E4 DE & !head-open-small!B,6 | G3 D DB, & !head-open-small!B,6 | G,4 A,G, & !head-open-small!D6 | A,3 F GB & !head-small!E3 !head-small!A,3 | A4 GF & !head-open-small!F6 | E6 & !head-open-small!A6 | E4 ED & !head-open-small!B,6 |
+ED | B,3 A, B,D & !head-open-small!D6 | E4 DE & !head-open-small!B,6 | G3 D DB, & !head-open-small!B,6 | G,4 A,G, & !head-open-small!D6 | A,3 F GB & !head-small!E3 !head-small!A,3 | A4 GF & !head-open-small!F4 !head-small!A2 | E6 & !head-open-small!A6 | E4 ED & !head-open-small!B,6 |
      B,3 A, B,D | E4 DE | G3 D DB, | G,4 A,2 | B,4 B2 | A4 FD | E6 | [!head-open-small!BE]4 ||
 gf | g3 b ge | f4 gf | e3 f  e^d | e4 BA | B3 e gb | a4 ga | b6 | b4 gf |
      g3 b ge | f4 gf | e2 f2 e^d | e4 BA | B3 e gb | a4 {ba}gf | e6 | [e4!head-open-small!e'4] |] 
@@ -370,7 +370,7 @@ K:G
 c | B<GG>D B,<DG,>B | c<AA>G F<AD>c | B<GG>D B,>DG>B | (c/B/)A/G/ F>d B<GG>c |
     B<GG>D B,<DG,>B | c<AA>G F<AD>c | B<GG>D B,<DG>B | (c/d/)e/c/ A>f g<G G ||
 f | g<bb>g f<aa>f | g/f/e/d/ c/B/A/G/ F<AA>f | g<bb>g f<aa>f | g/f/e/d/ e/f/g/a/ b<gg>f |
-    g<bb>g f<aa>f | g>fe>d c/d/c/B/ A/G/F/E/ | D<GG>D B,>DG>B | (c/d/)e/c/ A>f g<G G |]
+    g<bb>g f<aa>f | g>fe>d c/d/c/B/ A/G/F/E/ | D<GG>D B,<DG>B | (c/d/)e/c/ A>f g<G G |]
 
 X:1
 T:Fiſhing for Men
@@ -546,7 +546,6 @@ L:1/8
 M:6/8
 N:The compoſer has forgotten the origins of the title and the nature of the tune.
 K:Amix =g
-%%text Slow
 a2 A A>BA | BAB A2 G | g2 B BAB | dBB B2 b | aba g2 e | dBg G2 B | ABc dBG | BAA A3 ||
 g2 b afd | ecA A2 e | f2 g fdB | cAF F2 E | ABA B2 e | dBg G2 B | ABc dBG | BAA A3 |]
 
@@ -558,8 +557,8 @@ M:C
 L:1/8
 K:Amix =g
 %%graceslurs 0
-e2 | A>c!beambr1!e<a f2 ef | g>e!beambr1!d<B G2 c>d | e>A {gAGAG}A2 f>A {gAGAG}A2 | g>f!beambr1!e<d e2 f>e |
-     A>c!beambr1!e<a f2 ef | g>e!beambr1!d>B G2 c>d | e>Af>A g<Aa>f | e>cB>c A2 ||
+e2 | A>c!beambr1!e<a f2 e>f | g>e!beambr1!d<B G2 c>d | e>A {gAGAG}A2 f>A {gAGAG}A2 | g>f!beambr1!e<d e2 f>e |
+     A>c!beambr1!e<a f2 e>f | g>e!beambr1!d>B G2 c>d | e>Af>A g<Aa>f | e>cB>c A2 ||
 c>d | e>fe>d c>A {gAGAG}A2 | d>c!beambr1!B<A G2 c>d | e>fe>A f>gf>d | g>f!beambr1!e<d e2 c>d |
       e>fe>d c>A {gAGAG}A2 | d>c!beambr1!B<A G2 c>d | e>ce>a g>d!beambr1!B<G | A>ae>c A2 |]
 
@@ -612,8 +611,8 @@ C:T. S. Macdonald
 R:strathspey
 K:G
 %%text Slowiſh
-D | B>c!beambr1!d<B A>G!beambr1!E<G | D>B (c/B/)A/G/ F<AD>G | B<cd>B A>G!beambr1!E<G | A>B (c/d/)e/c/ B<G G:|
-f | g>d!beambr1!B<G F<DD>f | (g/f/)e/f/ g>d B<dd>f | g>d!beambr1!B<g b<ga>f | A>B (c/d/)e/c/ B<G G|] 
+D | B>c!beambr1!d<B A>G!beambr1!E<G | D>B (c/B/)A/G/ F<AD>G | B<cd>B A>G!beambr1!E<G | A>B (c/d/)e/c/ B<G G :|
+|: f | g>d!beambr1!B<G F<DD>f | (g/f/)e/f/ g>d B<dd>f | g>d!beambr1!B<g b<ga>f | A>B (c/d/)e/c/ B<G G :|] 
 
 X:1
 T:Hanſen Library
@@ -693,10 +692,10 @@ M:C
 L:1/16
 R:strathspey
 K:D
-D3F1d1A3 B3A1G3F1 | G1B3e3d1 c3A1E1C3 | D3F1d3A1 B3A1G1F3 | (3B2c2d2 (3c2d2e2 f1d3d3D1 |
-  F1d3A3B1 A1G3F1G3 | B3e1d1c3 A3E1C1D3 | F1d3A1B3 A3G1F3G1 | B1g3 fedc d4 d2 fg||
-a3d1f1d3 b3g1e3g1 | a3f1e3d1 c1e3e3f1 | a3d1f1d3 b3g1e1g3 | (3f2g2a2 (3g2f2e2 f1d3d3a1 |
-  d3f1d1b3 g1e3g1a3 | f3e1d3c1 e1e3f1a3 | d1f3d3b1 g3e1g3a1 | b3g fedc d8 |]
+D3F1!beambr1!d1A3 B3A1G3F1 | G1B3e3d1 c3A1!beambr1!E1C3 | D3F1d3A1 B3A1!beambr1!G1F3 | (3B2c2d2 (3c2d2e2 f1d3d3D1 |
+  F1d3A3B1 A1G3F1G3 | B3e1!beambr1!d1c3 A3E1!beambr1!C1D3 | F1d3A1B3 A3G1F3G1 | B1g3 fedc d4 d4 ||
+{fg}a3d1!beambr1!f1d3 b3g1e3g1 | a3f1e3d1 c1e3e3f1 | a3d1!beambr1!f1d3 b3g1!beambr1!e1g3 | (3f2g2a2 (3g2f2e2 f1d3d3a1 |
+      d3f1!beambr1!d1b3 g1e3g1a3 | f3e1d3c1 e1e3f1a3 | d1f3d3b1 g3e1g3a1 | b3g fedc d8 |]
 
 X:1
 T:Train to Mallaig
@@ -754,7 +753,6 @@ M:C
 L:1/8
 R:strathspey
 K:A
-%%text March
 E<A A2 e<A c2 | e>Af>A e>c!beambr1!B<c | E<A A2 e<A c2 | f/g/a e>c d<B B2 |
 E<A A2 e<A c2 | e>Af>A g<Aa>A | b>a!beambr1!g<f e>ca>f | e<ca<c A2 [!head-small!EA]2 ||
 a<cb>c d>c!beambr1!B<c  | A<Ec>A d<c B2 | E<A c2 e<c a2 | f>d!beambr1!B<G A2 A2 |
@@ -771,7 +769,7 @@ L:1/8
 K:Bb
 F<Bd>B c>A F2 | d>g!beambr1!f<B c>B!beambr1!A<F | F<Bd>B c<A f2 | e<cf>A F<B B2 :|
 d<ff>a b>g!beambr1!f<B | g>f (e/d/)c/B/ A<cc2 | d<ff>a b>g!beambr1!f<b | (a/g/)f/e/ d>A F<B B2 |
-d<ff>a b>g!beambr1!f<B | g>f (e/d/)c/B/ A<F F2 | F>Bd>B (c/{d}B/)c/e/ f2 | e<cf>A F<B B2 |]
+d<ff>a b>g!beambr1!f<B | g>f (e/d/)c/B/ A<F F2 | F>Bd>B (c/{dc}B/)c/e/ f2 | e<cf>A F<B B2 |]
 
 
 X:1
