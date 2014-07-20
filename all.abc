@@ -756,7 +756,7 @@ K:A
 E<A A2 e<A c2 | e>Af>A e>c!beambr1!B<c | E<A A2 e<A c2 | f/g/a e>c d<B B2 |
 E<A A2 e<A c2 | e>Af>A g<Aa>A | b>a!beambr1!g<f e>ca>f | e<ca<c A2 [!head-small!EA]2 ||
 a<cb>c d>c!beambr1!B<c  | A<Ec>A d<c B2 | E<A c2 e<c a2 | f>d!beambr1!B<G A2 A2 |
-+2+a<cb<c +4+c'>+2+cB<c | d<fe>c d<c B2 | b>ag>f e<ca>f | e<ca<c A2 [!head-small!A,!head-small!EA]2 |]
++2+a<cb<c +4+c'>+2+c!beambr1!B<c | d<fe>c d<c B2 | b>ag>f e<ca>f | e<ca<c A2 [!head-small!A,!head-small!EA]2 |]
 
 
 X:1
