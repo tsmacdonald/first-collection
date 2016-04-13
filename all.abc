@@ -59,7 +59,7 @@ C2    | B,2 E2 E2 B/c/d | eBGB E2 AB      | !uppermordent!cBAG !uppermordent!AGF
         B,2 E2 E2 B/c/d | egbg e3 d       | !uppermordent!cBAG !uppermordent!FEDF | G2 E2 E2 DC |
         B,EGE BEGE      | !turn!cBcd eEDE | !uppermordent!cBAG !uppermordent!AGFE | FGFE DCB,A, |
         LG,E !turn!E2 LB,E !turn!E2 | LA,E !turn!E2 LG,E !turn!E2 | B,EGB ecBA | G2 E2 E2 ||
-B/c/d | e2 g2 g2 fg | agfe d3 e             | Lc(AGA) LB(GFG) | (AG)FE  F2 B/c/d | 
+B/c/d | e2 g2 g2 fg | agfe d3 e             | Lc(AGA) LB(GFG) | (AG)FE  F2 B/c/d |
         e2 g2 g2 ag | fedc B3 A             | GFEG FEDF | G2 E2 E2 A/G/F |
         EGBe gBeg   | a{g}fg{f}e !turn!d3 e | Lc(aga) LB(gfg) | edcB  AGFE     |
         LG,E !turn!E2 LB,E !turn!E2 | LA,E !turn!E2 LG,E !turn!E2 | B,EGB ecBA | G2 E2 E2 |]
@@ -73,7 +73,7 @@ C:T. S. Macdonald
 K:Cm
 e  | c2 G>c E<cG<c | B>d!beambr1!f<b f<Bd>=B | c2 G>c E<cC>E | F>D (G/F/)E/D/ E<CC>e |
      c2 G<c E<cG<c | B>df>b (f/e/)d/c/ B>f | g>e!beambr1!c<g f>d!beambr1!B<f | e>c (e/d/)c/=B/ c2 c ||
-=B | c<CC>D E>D!beambr1!C<E | F>D!beambr1!B,<F D<B,B,>=B | c<CC>D E>D!beambr1!C<E | F>D (G/F/)E/D/ E<CC>=B | 
+=B | c<CC>D E>D!beambr1!C<E | F>D!beambr1!B,<F D<B,B,>=B | c<CC>D E>D!beambr1!C<E | F>D (G/F/)E/D/ E<CC>=B |
      c<CC>D E>D!beambr1!C<E | D<B,F<B, G<B,D>F | G>c!beambr1!e<g f<dB>f | e>c (e/d/)c/=B/ !turn!c3 |]
 
 X:1
@@ -208,7 +208,7 @@ c | dBAG A2 ed | cBAc dBBe | dBAG A2 Bc | deBd cAA :|:
 B | c2 c2 d2 ed | cefa ecAB | c2 c2 d2 Bc | deBd cAA :|:
 g | agfe f3 g | af f/f/f bagf | agfe f3 g | afeg aff :|:
 e | fedc dcBA | c2 c2 d3 e | fedc dcBc | deBd cAA :|:
-B | c2 c2 B3 A Bded cAAB  | c2 c2 B3 c | dBed cAA :|]
+B | c2 c2 B3 A | Bded cAAB  | c2 c2 B3 c | dBed cAA :|]
 
 X:1
 T:Fogbound
@@ -345,7 +345,7 @@ GA | B3 e gb | a4 EF | G3 B AF | D4 GA | B3 e gb | a4 ga | b6 | b4 GA |
 ED | B,3 A, B,D & !head-open-small!D6 | E4 DE & !head-open-small!B,6 | G3 D DB, & !head-open-small!B,6 | G,4 A,G, & !head-open-small!D6 | A,3 F GB & !head-small!E3 !head-small!A,3 | A4 GF & !head-open-small!F4 !head-small!A2 | E6 & !head-open-small!A6 | E4 ED & !head-open-small!B,6 |
      B,3 A, B,D | E4 DE | G3 D DB, | G,4 A,2 | B,4 B2 | A4 FD | E6 | [!head-open-small!BE]4 ||
 gf | g3 b ge | f4 gf | e3 f  e^d | e4 BA | B3 e gb | a4 ga | b6 | b4 gf |
-     g3 b ge | f4 gf | e2 f2 e^d | e4 BA | B3 e gb | a4 {ba}gf | e6 | [e4!head-open-small!e'4] |] 
+     g3 b ge | f4 gf | e2 f2 e^d | e4 BA | B3 e gb | a4 {ba}gf | e6 | [e4!head-open-small!e'4] |]
 
 X:1
 T:Putting Down the Nets
@@ -612,7 +612,7 @@ R:strathspey
 K:G
 %%text Slowiſh
 D | B>c!beambr1!d<B A>G!beambr1!E<G | D>B (c/B/)A/G/ F<AD>G | B<cd>B A>G!beambr1!E<G | A>B (c/d/)e/c/ B<G G :|
-|: f | g>d!beambr1!B<G F<DD>f | (g/f/)e/f/ g>d B<dd>f | g>d!beambr1!B<g b<ga>f | A>B (c/d/)e/c/ B<G G :|] 
+|: f | g>d!beambr1!B<G F<DD>f | (g/f/)e/f/ g>d B<dd>f | g>d!beambr1!B<g b<ga>f | A>B (c/d/)e/c/ B<G G :|]
 
 X:1
 T:Hanſen Library
@@ -669,7 +669,7 @@ M:C|
 L:1/8
 K:D
 A | dA A/A/A AFAd | eB B/B/B BABc | dA A/A/A AFAd | cdec d2 d :|
-d | gabg dgbg | dgbg f/f/f fd | gabg dgbg | fdef g/g/g gd | 
+d | gabg dgbg | dgbg f/f/f fd | gabg dgbg | fdef g/g/g gd |
     gabg dgbg | GBeg !turn!f2 ef | gefd ecdB | AGFE D2 D |]
 
 X:1
