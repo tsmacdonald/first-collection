@@ -445,7 +445,7 @@ R:strathspey
 M:C
 L:1/8
 K:A
-E | A c>A c/d/e c2 | A>c!beambr1!e<a f>e!beambr1!f<a | A2 c>A c/d/e c2 | A>c!beambr1!B<G A2 A :|
+E | A2 c>A c/d/e c2 | A>c!beambr1!e<a f>e!beambr1!f<a | A2 c>A c/d/e c2 | A>c!beambr1!B<G A2 A :|
 {Bc}e | a>Ag>A f<Ag>A | (3aga (3fec e2 (3Ace | a<Ag>A f<Ag>A | (3aga (3bge f2 (3geA |
 (3aAa (3gAg (3fAf (3gAg | (3aga (3bag (3fed (3cBA | (3dAf (3efg (3agf (3edB | A>F!beambr1!E<C A,2 A, |]
 
@@ -458,7 +458,7 @@ M:C
 K:G
 %%text Very Slow
 d/c/ | B G D B, | G,3 A/B/ | c e g B | c3 d/c/ | B G d B | c/d/e/f/ g f/e/ | d B A B | G3 ||
-B/c/ | d g f g | d3 c/d/ | e c d B | A3 d/c/ | B G d B c/d/e/c/ A B/c/ | d B A B | G3 |]
+B/c/ | d g f g | d3 c/d/ | e c d B | A3 d/c/ | B G d B | c/d/e/c/ A B/c/ | d B A B | G3 |]
 
 X:1
 T:Farewell to Fiddletree
